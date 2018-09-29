@@ -108,7 +108,7 @@ INSTALLP_DESC_KUIO =				"基本的なI/O操作の場合ユーザーモジュー�
 INSTALLP_DESC_ADRENALINE =			"ワンタッチでAdrenalineを動作させる事が出来ます"
 INSTALLP_DESC_DSMOTION =			"PlayStation TVのDualShockモーションコントロールのサポート"
 INSTALLP_DESC_USBMC =				"USBストレージをVitaのメモリーカード(ux0)としてマウントする事が出来ます"
-INSTALLP_DESC_ANALOGSENHANCER =             "この小さなカーネルプラグインにより、ユーザーは、PSVitaのアナログスティックの操作精度を向上させる事が出来ます"
+INSTALLP_DESC_ANALOGSENHANCER =		"この小さなカーネルプラグインにより、ユーザーは、PSVitaのアナログスティックの操作精度を向上させる事が出来ます"
 INSTALLP_DESC_IOPLUS = 			"ユーザランドでより多くのIO操作を可能にするPSVitaカーネルプラグインです/n元の機能を使用して、ユーザーアプリケーションとプラグインのIO許可を向上させます"
 INSTALLP_DESC_VITACHEAT =			"PSVitaゲームでチートを使用する"
 

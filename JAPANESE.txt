@@ -73,7 +73,7 @@ CUSTOMBOOTSPLASH_CROSS_CONVERT =		"×ボタン:画像を変換"
 CUSTOMBOOTSPLASH_CIRCLE_CONVERT =		"○ボタン:画像を変換"
 CUSTOMBOOTSPLASH__MESSAGE =			"カスタムブートスプラッシュプラグインを有効にする事を忘れないで下さい"
 CUSTOMBOOTSPLASH_RESTART =			"今すぐ再起動しますか?"
-CUSTOMBOOTSPLASH_NOPNG_FOUND =			"ux0:CustomBootsplashは空っぽです!"
+CUSTOMBOOTSPLASH_NOPNG_FOUND =			"ux0:CustomBootsplashの中に画像ファイルがありません"
 
 --pspctrls
 PSPCTRLS_TITLE =				"Adrenaline用のRemasteredControlsプラグインをインストール"

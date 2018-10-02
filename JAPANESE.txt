@@ -128,11 +128,10 @@ INSTALLP_DESC_SHELLBAT =			"ステータスバーのバッテリーのパーセ�
 INSTALLP_DESC_SHELLSECBAT =			"ステータスバーのバッテリーのパーセントと時・分・秒を表示します"
 INSTALLP_DESC_PNGSHOT =			"pngshotはスクリーンショットをす素晴らしい物にする為のプラグインです(.PNG)"
 INSTALLP_DESC_VFLUX =				"PSVitaのスクリーンフィルタープラグイン"
-INSTALLP_DESC_AUTOBOOT =					"PSPのAutoStartのように、Enso起動直後にアプリケーションを自動起動するプラグイン"
+INSTALLP_DESC_AUTOBOOT =				"PSPのAutoStartのように、Enso起動直後にアプリケーションを自動起動するプラグイン"
 
 --ALL
 INSTALLP_DESC_VSHMENU =			"PSVitaゲームとHomebrewsのVSHメニューを表示するtaiHENプラグイン"
 INSTALLP_DESC_VITAGRAFIX =			"PSVitaゲームの解像度とFPS上限を変更出来るプラグイン"
 INSTALLP_DESC_OVERCLOCK =			"taiHenの為の単純なOverclockプラグイン"
-INSTALLP_DESC_OVERCLOCK =					"Simple Overclock Plugin for Taihen"
-INSTALLP_DESC_FRAMECOUNTER =				"FPSカウンタとして動作する小さなプラグインです。画面の左上にFPSカウンターが表示されます"
+INSTALLP_DESC_FRAMECOUNTER =		"FPSカウンタとして動作する小さなプラグインです。画面の左上にFPSカウンターが表示されます"

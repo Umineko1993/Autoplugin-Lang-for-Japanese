@@ -1,4 +1,4 @@
---Japanese Translates for version 3.53
+--Japanese Translates for version 3.54
 
 STRING_UNSAFE_MODE =				"このアプリケーションはUNSAFE MODEを有効にする必要があります"
 STRING_PSVITA_RESTART =			"PSVitaを再起動します"
@@ -104,6 +104,7 @@ INSTALLP_DESC_LOLICON =			"VitaのCPUクロックをオーバークロックし�
 INSTALLP_DESC_DS3VITA =			"DualShock3を使ってVitaをコントロールする"
 INSTALLP_DESC_DS4VITA =			"DualShock4を使ってVitaをコントロールする"
 INSTALLP_DESC_UDCDUVC =			"UVCデバイスを使用して、USB経由でディスプレイをコンピュータにストリーミングします"
+INSTALLP_DESC_VIIMOTE =				"WiiMoteを使用してVitaを操作する"
 INSTALLP_DESC_KUIO =				"基本的なI/O操作の場合ユーザーモジュールux0:dataにアクセス出来るようにします/n特定のプラグインが必要な場合があります"
 INSTALLP_DESC_ADRENALINE =			"ワンタッチでAdrenalineを動作させる事が出来ます"
 INSTALLP_DESC_DSMOTION =			"PlayStation TVのDualShockモーションコントロールのサポート"
@@ -135,3 +136,4 @@ INSTALLP_DESC_VSHMENU =			"PSVitaゲームとHomebrewsのVSHメニューを表�
 INSTALLP_DESC_VITAGRAFIX =			"PSVitaゲームの解像度とFPS上限を変更出来るプラグイン"
 INSTALLP_DESC_OVERCLOCK =			"taiHenの為の単純なOverclockプラグイン"
 INSTALLP_DESC_FRAMECOUNTER =			"FPSカウンタとして動作する小さなプラグインです。画面の左上にFPSカウンターが表示されます"
+INSTALLP_DESC_VGI =				"PS Vitaゲームに関する有益な情報を表示するシンプルなtaiHENのプラグイン。"

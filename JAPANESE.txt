@@ -1,4 +1,4 @@
---Japanese Translates for version 3.56
+--Japanese Translates for version 3.57
 
 STRING_UNSAFE_MODE =				"このアプリケーションはUNSAFE MODEを有効にする必要があります"
 STRING_PSVITA_RESTART =			"PSVitaを再起動します"

@@ -140,4 +140,3 @@ INSTALLP_DESC_VGI =				            "A simple taihen plugin that prints useful in
 INSTALLP_DESC_FUCKPSSE =				            "A plugin to decrypt PSM games"
 INSTALLP_DESC_PSMPATCH =				            "Allows you to modify PSM Games, and also can be used to load PSM Homebrew."
 INSTALLP_DESC_ITLSENSO =				            "Adds TLS v1.2 to Enso enabled devices(requires vpk of the application)."
-

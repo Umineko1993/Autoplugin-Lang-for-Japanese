@@ -1,4 +1,4 @@
---Japanese Translates for version 3.58
+--Japanese Translates for version 3.59
 
 STRING_UNSAFE_MODE =				"このアプリケーションはUNSAFE MODEを有効にする必要があります"
 STRING_PSVITA_RESTART =			"PSVitaを再起動します"
@@ -18,7 +18,7 @@ MENU_INSTALL_PLUGINS =				"プラグインインストール"
 MENU_UNINSTALL_PLUGINS =			"プラグインアンインストール"
 MENU_CONVERTBOOTSPLASH =			"カスタムブートスプラッシュを設定"
 MENU_INSTALL_NPDRMFREE =			"Adrenaline用npdrm_freeプラグインインストール(by qwikrazor87)"
-MENU_INSTALL_CONFIG =				"PKGJ v0.42+向けのconfig.txtをインストール"
+MENU_INSTALL_CONFIG =				"PKGJ v0.43+向けのconfig.txtをインストール"
 MENU_INSTALL_REMASTERED_CTRLS =		"Adrenaline用RemasteredControlsプラグインインストール（by Theflow）"
 MENU_CHECK_ONLINEP =				"プラグインのアップデートを確認"
 MENU_EXIT =					"アプリを終了"
@@ -140,3 +140,4 @@ INSTALLP_DESC_VGI =				"PS Vitaゲームに関する有益な情報を表示す�
 INSTALLP_DESC_FUCKPSSE =			"PSMゲームを複合化するプラグイン"
 INSTALLP_DESC_PSMPATCH =			"PSMゲームを編集する事が出来ます。又、PSM向け自作アプリを読み込みをする為に使用する事も出来ます"
 INSTALLP_DESC_ITLSENSO =			"Enso動作中のデバイスにTLS v1.2を追加 (アプリケーションのvpkが必要)"
+INSTALLP_DESC_TROPHAX =			"Ps Vitaの全てのトロフィーのロックを解除"

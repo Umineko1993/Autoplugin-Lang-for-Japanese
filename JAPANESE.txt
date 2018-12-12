@@ -1,4 +1,4 @@
---Japanese Translates for version 3.59
+--Japanese Translates for version 3.60
 
 STRING_UNSAFE_MODE =				"このアプリケーションはUNSAFE MODEを有効にする必要があります"
 STRING_PSVITA_RESTART =			"PSVitaを再起動します"
@@ -112,6 +112,7 @@ INSTALLP_DESC_USBMC =				"USBストレージをPS Vitaのメモリーカード(u
 INSTALLP_DESC_ANALOGSENHANCER =		"この小さなカーネルプラグインにより、ユーザーは、PS Vitaのアナログスティックの操作精度を向上させる事が出来ます"
 INSTALLP_DESC_IOPLUS = 			"ユーザランドでより多くのIO操作を可能にするPS Vitaカーネルプラグインです/n元の機能を使用して、ユーザーアプリケーションとプラグインのIO許可を向上させます"
 INSTALLP_DESC_VITACHEAT =			"PS Vitaゲームでチートを使用する"
+INSTALLP_DESC_NOPSMWHITE =		"PSMゲームのPS TV向けホワイトリストを無効にする"
 
 --Boot_config.txt
 INSTALLP_DESC_CUSTOMBOOTSPLASH =		"このプラグインは、起動時にPS Vita・PS TVにBoot Splashを表示させる事が出来ます。ENSO必須です"

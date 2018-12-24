@@ -62,7 +62,7 @@ UNINSTALLP_LEFTRIGHT_SECTION =		"左右ボタン:セクションを切替"
 
 --npdrm free
 NPDRMFREE_TITLE =			"Adrenaline用のnpdrm_freeプラグインをインストール"
-NPDRMFREE_INSTALLED =				"npdrm_freeがインストールされています"
+NPDRMFREE_INSTALLED =			"npdrm_freeがインストールされています"
 NPDRMFREE_VSH_UPDATED =			"vsh.txtを更新しました"
 NPDRMFREE_GAME_UPDATED =		"game.txtを更新しました"
 NPDRMFREE_NO_PARTITION =		"パーティションが見つかりません"

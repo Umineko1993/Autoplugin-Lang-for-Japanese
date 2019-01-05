@@ -1,4 +1,4 @@
---Japanese Translates for version 3.65
+--Japanese Translates for version 3.66
 
 STRING_UNSAFE_MODE =			"このアプリケーションはUNSAFE MODEを有効にする必要があります"
 STRING_PSVITA_RESTART =			"PSVitaを再起動します"
@@ -18,7 +18,7 @@ MENU_INSTALL_PLUGINS =			"プラグインインストール"
 MENU_UNINSTALL_PLUGINS =		"プラグインアンインストール"
 MENU_CONVERTBOOTSPLASH =		"カスタムブートスプラッシュを設定"
 MENU_INSTALL_NPDRMFREE =		"Adrenaline用npdrm_freeプラグインインストール(by qwikrazor87)"
-MENU_INSTALL_CONFIG =			"PKGJ v0.43+向けのconfig.txtをインストール"
+MENU_INSTALL_CONFIG =			"PKGJ v0.44+向けのconfig.txtをインストール"
 MENU_INSTALL_REMASTERED_CTRLS =		"Adrenaline用RemasteredControlsプラグインインストール（by Theflow）"
 MENU_CHECK_ONLINEP =			"プラグインのアップデートを確認"
 MENU_QENCORE =				"Yoti氏作成のQ-Encoreのインストール(警告:要必須:h-encoreのインストール済み状態)"
@@ -118,6 +118,7 @@ INSTALLP_DESC_VITACHEAT =		"PS Vitaゲームでチートを使用する"
 INSTALLP_DESC_NOPSMWHITE =		"PSMゲームのPS TV向けホワイトリストを無効にする"
 INSTALLP_DESC_ANALOGSTICK =		"PS Vitaのアナログスティックを完全に無効化するプラグイン"
 INSTALLP_DESC_CIDSPOOF =		"PS VitaのなりすましCID(PSNからコンソールの禁止を解除する為に使用される可能性があります)"
+INSTALLP_DESC_MAKEPSM =		"PSM デベロッパーアプリケーションへの変更"
 
 --Boot_config.txt
 INSTALLP_DESC_CUSTOMBOOTSPLASH =	"このプラグインは、起動時にPS Vita・PS TVにBoot Splashを表示させる事が出来ます。ENSO必須です"

@@ -1,7 +1,7 @@
 --Japanese Translates for version 3.66
 
 STRING_UNSAFE_MODE =			"このアプリケーションはUNSAFE MODEを有効にする必要があります"
-STRING_PSVITA_RESTART =			"PSVitaを再起動します"
+STRING_PSVITA_RESTART =			"PS Vitaを再起動します"
 STRING_BACKUP_CONFIGS =			"Config_backups.txtの作成"
 STRING_MISSING_CONFIG =			"config.txtが存在しません"
 STRING_CIRCLE_BACK =			"○ボタン:メニューに戻る"
@@ -141,7 +141,7 @@ INSTALLP_DESC_AUTOBOOT =		"PSPのAutoStartのように、Enso起動直後にア�
 --ALL
 INSTALLP_DESC_VSHMENU =			"PS VitaゲームとHomebrewsのVSHメニューを表示するtaiHENプラグイン"
 INSTALLP_DESC_VITAGRAFIX =		"PS Vitaゲームの解像度とFPS上限を変更出来るプラグイン"
-INSTALLP_DESC_OVERCLOCK =		"taiHenの為の単純なOverclockプラグイン"
+INSTALLP_DESC_OVERCLOCK =		"taiHENの為の単純なOverclockプラグイン"
 INSTALLP_DESC_FRAMECOUNTER =		"FPSカウンタとして動作する小さなプラグインです。画面の左上にFPSカウンターが表示されます"
 INSTALLP_DESC_VGI =			"PS Vitaゲームに関する有益な情報を表示するシンプルなtaiHENのプラグイン"
 INSTALLP_DESC_FUCKPSSE =		"PSMゲームを複合化するプラグイン"

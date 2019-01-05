@@ -118,7 +118,7 @@ INSTALLP_DESC_VITACHEAT =		"PS Vitaゲームでチートを使用する"
 INSTALLP_DESC_NOPSMWHITE =		"PSMゲームのPS TV向けホワイトリストを無効にする"
 INSTALLP_DESC_ANALOGSTICK =		"PS Vitaのアナログスティックを完全に無効化するプラグイン"
 INSTALLP_DESC_CIDSPOOF =		"PS VitaのなりすましCID(PSNからコンソールの禁止を解除する為に使用される可能性があります)"
-INSTALLP_DESC_MAKEPSM =		"PSM デベロッパーアプリケーションへの変更"
+INSTALLP_DESC_MAKEPSM =			"PSM デベロッパーアプリケーションへの変更"
 
 --Boot_config.txt
 INSTALLP_DESC_CUSTOMBOOTSPLASH =	"このプラグインは、起動時にPS Vita・PS TVにBoot Splashを表示させる事が出来ます。ENSO必須です"

@@ -13,8 +13,8 @@ STRING_CROSS_INSTALL =			"×ボタン:プラグインをインストール"
 STRING_CIRCLE_INSTALL =			"○ボタン:プラグインをインストール"
 
 --menu.lua
-MENU_TITLE =		"Autoplugin"
-MENU_EXTRAS =		"エキストラ"
+MENU_TITLE =				"Autoplugin"
+MENU_EXTRAS =				"エキストラ"
 MENU_INSTALL_SD2VITA =			"SD2VITAプラグインインストール"
 MENU_INSTALL_PLUGINS =			"プラグインインストール"
 MENU_UNINSTALL_PLUGINS =		"プラグインアンインストール"
@@ -130,7 +130,7 @@ INSTALLP_DESC_CONVERTBOOTSPLASH =	"スプラッシュイメージをカスタム
 INSTALLP_DESC_NOFINDSPLASH =		"選択した画像をux0:CustomBootsplash/に配置します\n(splash.pngにリネームし、960×544にリサイズ)"
 INSTALLP_DESC_SPLASHGH =		"画像サイズは｢960×544｣です"
 INSTALLP_DESC_BOOTSPLASHDONE =		"boot_splash.binが完了しました"
-INSTALLP_DESC_REFOOD =		"正しく復号化されないプログラムを実行する為のPS Vitaプラグイン.
+INSTALLP_DESC_REFOOD =			"正しく復号化されないプログラムを実行する為のPS Vitaプラグイン.
 
 --MAIN
 INSTALLP_DESC_DENABLER =		"ブラウザでファイルをダウンロード出来ます"

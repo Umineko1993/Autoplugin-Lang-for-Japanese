@@ -130,7 +130,7 @@ INSTALLP_DESC_CONVERTBOOTSPLASH =	"Set your splash image as custom boot splash ?
 INSTALLP_DESC_NOFINDSPLASH =		"Place the image of your choice at ux0:CustomBootsplash/\n(renamed to splash.png and resized to 960x544)"
 INSTALLP_DESC_SPLASHGH =		"The size of the image should be: 960 * 544"
 INSTALLP_DESC_BOOTSPLASHDONE =		"boot_splash.bin DONE !!!"
-INSTALLP_DESC_REFOOD =		"A vita plugin to run programs that do not get decrypted properly."
+INSTALLP_DESC_REFOOD =			"A vita plugin to run programs that do not get decrypted properly."
 
 --MAIN
 INSTALLP_DESC_DENABLER =		"Download files through your browser"

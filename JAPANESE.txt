@@ -28,7 +28,7 @@ MENU_BACK =				"戻る"
 MENU_INSTALLED_QENCORE =		"Q-Encoreをインストールしました"
 MENU_QENCORE_NOGAME =			"Q-Encoreを適用するには、H-Encoreをインストールする必要があります"
 MENU_QENCORE_NOTPATCHED =		"Q-Encoreがインストールされていません"
-MENU_QENCORE_ASK1 =			"H-Encoreが見つかりました "
+MENU_QENCORE_ASK1 =			"H-Encoreが見つかりました 場所:"
 MENU_QENCORE_ASK2 =			"\nQ-Encoreを此処にインストールしますか?"
 
 --install sd2vita

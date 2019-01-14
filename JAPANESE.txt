@@ -30,6 +30,7 @@ MENU_QENCORE_NOGAME =			"Q-Encoreを適用するには、H-Encoreをインスト
 MENU_QENCORE_NOTPATCHED =		"Q-Encoreがインストールされていません"
 MENU_QENCORE_ASK1 =			"H-Encoreが見つかりました 場所:"
 MENU_QENCORE_ASK2 =			"\nQ-Encoreを此処にインストールしますか?"
+MENU_QENCORE_SD2VITA =			"\nSD2VITAを削除してから、Q-Encoreをもう一度インストールし下さい
 
 --install sd2vita
 SD2VITA_1_WARNING =			"Storage ManagerプラグインをインストールするにはSD2VITAを準備しておく必要があります"
@@ -123,6 +124,7 @@ INSTALLP_DESC_NOPSMWHITE =		"PSMゲームのPS TV向けホワイトリストを�
 INSTALLP_DESC_ANALOGSTICK =		"PS Vitaのアナログスティックを完全に無効化するプラグイン"
 INSTALLP_DESC_CIDSPOOF =		"PS VitaのなりすましCID(PSNからコンソールの禁止を解除する為に使用される可能性があります)"
 INSTALLP_DESC_MAKEPSM =			"PSM デベロッパーアプリケーションへの変更"
+INSTALLP_DESC_REFOOD =			"正しく復号化されないプログラムを実行するためのPS Vitaプラグイン"
 
 --Boot_config.txt
 INSTALLP_DESC_CUSTOMBOOTSPLASH =	"このプラグインは、起動時にPS Vita・PS TVにBoot Splashを表示させる事が出来ます。ENSO必須です"
@@ -130,7 +132,6 @@ INSTALLP_DESC_CONVERTBOOTSPLASH =	"スプラッシュイメージをカスタム
 INSTALLP_DESC_NOFINDSPLASH =		"選択した画像をux0:CustomBootsplash/に配置します\n(splash.pngにリネームし、960×544にリサイズ)"
 INSTALLP_DESC_SPLASHGH =		"画像サイズは｢960×544｣です"
 INSTALLP_DESC_BOOTSPLASHDONE =		"boot_splash.binが完了しました"
-INSTALLP_DESC_REFOOD =			"正しく復号化されないプログラムを実行する為のPS Vitaプラグイン"
 
 --MAIN
 INSTALLP_DESC_DENABLER =		"ブラウザでファイルをダウンロード出来ます"

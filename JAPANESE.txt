@@ -30,7 +30,7 @@ MENU_QENCORE_NOGAME =			"Q-Encoreを適用するには、H-Encoreをインスト
 MENU_QENCORE_NOTPATCHED =		"Q-Encoreがインストールされていません"
 MENU_QENCORE_ASK1 =			"H-Encoreが見つかりました 場所:"
 MENU_QENCORE_ASK2 =			"\nQ-Encoreを此処にインストールしますか?"
-MENU_QENCORE_SD2VITA =			"\nSD2VITAを削除してから、Q-Encoreをもう一度インストールし下さい
+MENU_QENCORE_SD2VITA =			"\nSD2VITAを削除してから、Q-Encoreをもう一度インストールし下さい"
 
 --install sd2vita
 SD2VITA_1_WARNING =			"Storage ManagerプラグインをインストールするにはSD2VITAを準備しておく必要があります"

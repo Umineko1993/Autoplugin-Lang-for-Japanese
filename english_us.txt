@@ -1,4 +1,4 @@
---Translates for 3.69
+--Translates for 3.69 
 
 STRING_UNSAFE_MODE =						"UNSAFE MODE is required for this Homebrew!"
 STRING_PSVITA_RESTART =						"Your PSVita will restart"

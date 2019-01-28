@@ -1,6 +1,6 @@
 JAPANESE = {}
 
---Translates
+--Translates　for 3.72
 
 JAPANESE["UPDATER_AVAILABLE"] =					"の更新が有ります"
 JAPANESE["UPDATER_UPDATE"] =					"アプリケーションの更新をしますか"
@@ -20,10 +20,10 @@ JAPANESE["STRING_PSVITA_RESTART"] =				"PS Vitaを再起動します"
 JAPANESE["STRING_BACKUP_CONFIGS"] =				"Config_backups.txtの作成"
 JAPANESE["STRING_MISSING_CONFIG"] =				"config.txtが存在しません"
 JAPANESE["STRING_BACK"] =						"メニューに戻る"
-JAPANESE["STRING_CLOSE"] =						"Exit Autoplugin"
-JAPANESE["STRING_INSTALLED"] =					"has been installed"
-JAPANESE["STRING_PLEASE_WAIT"] =				"Please wait..."
-JAPANESE["RESTART_QUESTION"] =					"Do you want to restart now ?"
+JAPANESE["STRING_CLOSE"] =						"Autopluginの終了"
+JAPANESE["STRING_INSTALLED"] =					"はインストールされました"
+JAPANESE["STRING_PLEASE_WAIT"] =				"暫らくお待ち下さい"
+JAPANESE["RESTART_QUESTION"] =					"今直ぐ再起動しますか?"
 
 --Options Menus
 JAPANESE["MENU_TITLE"] =						"Autoplugin"

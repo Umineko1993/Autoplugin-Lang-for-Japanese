@@ -1,6 +1,6 @@
 ENGLISH_US = {}
 
---Translates for 3.72
+--Translates for 3.73
 
 ENGLISH_US["UPDATER_AVAILABLE"] =           			"is now available."
 ENGLISH_US["UPDATER_UPDATE"] =               			"Do you want to update the application?"
@@ -55,6 +55,9 @@ ENGLISH_US["MENU_CUSTOMWARNING"] =						"Set Custom Warning Message"
 ENGLISH_US["MENU_INSTALL_CONFIG"] =						"Install config.txt for PKGJ v0.45+"
 ENGLISH_US["MENU_INSTALL_CONFIG_DESC"] =				"Install config.txt for PKGJ (Require Wifi)"
 ENGLISH_US["MENU_INSTALLED_CONFIG"] =					"ux0:pkgi/config.txt for PKGJ has been installed!"
+
+ENGLISH_US["MENU_CUSTOM_CONFIG_DESC"] =					"Allows option customization on the config.txt for PKGj"
+
 ENGLISH_US["MENU_QENCORE"] =							"Install Q-Encore by Yoti"
 ENGLISH_US["MENU_QENCORE_DESC"] =						"Quick h-encore launcher by Yoti (Warning: h-encore must already be installed)"
 
@@ -120,6 +123,21 @@ ENGLISH_US["UNINSTALLP_NOCONFIG_FOUND"] =				"No config.txt found at: "
 ENGLISH_US["UNINSTALLP_PLUGIN"] =						"To uninstall plugin"
 ENGLISH_US["UNINSTALLP_LEFTRIGHT_SECTION"] =			"<--/--> To switch section"
 
+--config pkgj
+ENGLISH_US["PKGJ_TITLE"] =								"Options for Config PKGJ"
+ENGLISH_US["NO_CONFIG_PKGJ"] =							"There's no config.txt installed"
+ENGLISH_US["YES"] =										"YES"
+ENGLISH_US["NO"] =										"NO"
+ENGLISH_US["PKGJ_UPDATE_CONFIG"] =						"Update Config for PKGj"
+ENGLISH_US["PKGJ_UPDATING"] =							"Updating Config PKGj!\n\nPlease Wait..."
+
+ENGLISH_US["PKGJ_TITLE_INSTALL_PBP"] =					"Install PSP games as EBOOT files"
+ENGLISH_US["PKGJ_DESC_INSTALL_PBP"] =					"Allows to install games faster (EBOOT.PBP). You will need to install Quikrazor's plugin Npdrm_free"
+ENGLISH_US["PKGJ_TITLE_CHANGE_LOC"] =					"Switch partition for PSP/PSX"
+ENGLISH_US["PKGJ_DESC_CHANGE_LOC"] =					"Install PSP and PSX games on another partition"
+ENGLISH_US["PKGJ_TITLE_ADD_PSM"] =						"Add PSM Games"
+ENGLISH_US["PKGJ_DESC_ADD_PSM"] =						"You need to install the NoPsmDrm plugin"
+
 --npdrm free
 ENGLISH_US["NPDRMFREE_TITLE"] =							"Install NPDRM FREE plugin from Qwik"
 ENGLISH_US["NPDRMFREE_INSTALLED"] =						"npdrm free installed"
@@ -128,7 +146,7 @@ ENGLISH_US["NPDRMFREE_GAME_UPDATED"] =					"game.txt updated"
 ENGLISH_US["NPDRMFREE_INSTALL"] =						"Install npdrm free plugin"
 ENGLISH_US["NPDRMFREE_DESC"] =							"A PSP/ePSP plugin to run official NPDRM PS1/PSP content without need of a valid .rif license or act.dat."
 
---customWaning
+--customWarning
 ENGLISH_US["CUSTOMWARNING_MESSAGE"] =					"Remember to enable the Custom Warning plugin"
 
 --customsplash
@@ -181,6 +199,7 @@ ENGLISH_US["INSTALLP_DESC_ANALOGSTICK"] =				"Plugin to completely disable PSVit
 ENGLISH_US["INSTALLP_DESC_CIDSPOOF"] =					"Spoof CID (ConsoleID) on PSVITA(Could possibly be used to unban your console from PSN)"
 ENGLISH_US["INSTALLP_DESC_MAKEPSM"] =					"Modifications to the PSM Developer applications"
 ENGLISH_US["INSTALLP_DESC_REFOOD"] =					"A vita plugin to run programs that do not get decrypted properly."
+ENGLISH_US["INSTALLP_DESC_NOLED"] =					    "noled is a simple plugin to turn off the home button led of PS Vita."
 
 --Boot_config.txt
 ENGLISH_US["INSTALLP_DESC_CUSTOMBOOTSPLASH"] =			"This plugin can display Boot Splash on PS Vita/PSTV at boot. Requires ENSO."
@@ -212,3 +231,4 @@ ENGLISH_US["INSTALLP_DESC_PSMPATCH"] =					"Allows you to modify PSM Games, and 
 ENGLISH_US["INSTALLP_DESC_ITLSENSO"] =					"Adds TLS v1.2 to Enso enabled devices(requires vpk of the application)."
 ENGLISH_US["INSTALLP_DESC_TROPHAX"] =					"Universal trophy unlocker for PSVITA."
 ENGLISH_US["INSTALLP_DESC_TURBOPAD"] =					"This plugin allows you to enable RapidFire on whatever button."
+ENGLISH_US["INSTALLP_DESC_RESCALER"] =					"This plugin replaces the original rescaler for PSVITA with a new one allowing games running at non-native resolution to get graphics improvements thanks to filtering with shaders."

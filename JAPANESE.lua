@@ -56,7 +56,7 @@ JAPANESE["MENU_INSTALL_CONFIG"] =		"PKGJ v0.45以上向けのconfig.txtのイン
 JAPANESE["MENU_INSTALL_CONFIG_DESC"] =		"PKGJ向けのconfig.txtのインストール(Wi-Fi必須)"
 JAPANESE["MENU_INSTALLED_CONFIG"] =		"ux0:pkgi/config.txtにインストールされました"
 
-JAPANESE["MENU_CUSTOM_CONFIG_DESC"] =	"PKGJのconfig.txtでのオプションのカスタマイズを許可します"
+JAPANESE["MENU_CUSTOM_CONFIG_DESC"] =		"PKGJのconfig.txtでのオプションのカスタマイズを許可します"
 
 JAPANESE["MENU_QENCORE"] =			"Yoti作Q-Encoreのインストール"
 JAPANESE["MENU_QENCORE_DESC"] =			"by Yoti作Quick H-encore launcher(警告:H-Encoreがインストールされている必要があります)"
@@ -65,7 +65,7 @@ JAPANESE["MENU_QENCORE_ASK"] =			"Q-Encoreをインストールする必要が�
 JAPANESE["MENU_INSTALLED_QENCORE"] =		"Q-Encoreはインストールされています"
 JAPANESE["MENU_NOT_INSTALLED_QENCORE"] =	"Q-Encoreはインストールされていません"
 JAPANESE["MENU_QENCORE_PATCHED"] =		"Q-Encoreのパッチをしました"
-JAPANESE["MENU_QENCORE_NOT_PATCHED"] =	"Q-Encoreのパッチはされていません"
+JAPANESE["MENU_QENCORE_NOT_PATCHED"] =		"Q-Encoreのパッチはされていません"
 
 JAPANESE["MENU_QENCORE_NOGAME"] =		"Q-Encoreパッチを当てるにはH-Encoreをインストールする必要があります"
 
@@ -124,18 +124,18 @@ JAPANESE["UNINSTALLP_PLUGIN"] =			"プラグインをアンインストール"
 JAPANESE["UNINSTALLP_LEFTRIGHT_SECTION"] =	"←ボタン/→ボタン セクションで切り替え"
 
 --config pkgj
-JAPANESE["PKGJ_TITLE"] =		"PKGJコンフィグの設定"
-JAPANESE["NO_CONFIG_PKGJ"] =		"config.txtがインストールされていません"
-JAPANESE["YES"] =		"YES"
-JAPANESE["NO"] =		"NO"
-JAPANESE["PKGJ_UPDATE_CONFIG"] =			"PKGJのコンフィグを更新"
-JAPANESE["PKGJ_UPDATING"] =		"PKGJのコンフィグを更新中\n\n暫くお待ち下さい"
+JAPANESE["PKGJ_TITLE"] =			"PKGJコンフィグの設定"
+JAPANESE["NO_CONFIG_PKGJ"] =			"config.txtがインストールされていません"
+JAPANESE["YES"] =				"YES"
+JAPANESE["NO"] =				"NO"
+JAPANESE["PKGJ_UPDATE_CONFIG"] =		"PKGJのコンフィグを更新"
+JAPANESE["PKGJ_UPDATING"] =			"PKGJのコンフィグを更新中\n\n暫くお待ち下さい"
 
 JAPANESE["PKGJ_TITLE_INSTALL_PBP"] =		"PSPゲームをEBOOTファイルとしてインストール"
 JAPANESE["PKGJ_DESC_INSTALL_PBP"] =		"より速くゲーム(EBOOT.PBP)をインストールする事が出来ます。Quikrazor作のNpdrm_freeプラグインをインストールする必要があります"
 JAPANESE["PKGJ_TITLE_CHANGE_LOC"] =		"PSP/PSXのパーティションの切り替え"
 JAPANESE["PKGJ_DESC_CHANGE_LOC"] =		"PSPとPSXゲームを別のパーティションにインストールする"
-JAPANESE["PKGJ_TITLE_ADD_PSM"] =			"PSMゲームの追加"
+JAPANESE["PKGJ_TITLE_ADD_PSM"] =		"PSMゲームの追加"
 JAPANESE["PKGJ_DESC_ADD_PSM"] =			"NoPsmDrmプラグインのインストールが必要です"
 
 --npdrm free
@@ -147,7 +147,7 @@ JAPANESE["NPDRMFREE_INSTALL"] =			"npdrm freeプラグインのインストー�
 JAPANESE["NPDRMFREE_DESC"] =			"npdrm freeは有効な.rifライセンスやact.datを必要とせずに、公式のPS1/PSPコンテンツを実行する為のPSP/ePSPプラグイン"
 
 --customWarning
-JAPANESE["CUSTOMWARNING_MESSAGE"] =	"Custom Warningプラグインを有効にする事を忘れないで下さい"
+JAPANESE["CUSTOMWARNING_MESSAGE"] =		"Custom Warningプラグインを有効にする事を忘れないで下さい"
 
 --customsplash
 JAPANESE["CUSTOMBOOTSPLASH__TITLE"] =		"Custom Boot Splash"

@@ -1,6 +1,6 @@
 JAPANESE = {}
 
---Translates for 3.73
+--Translates for 3.74
 
 JAPANESE["UPDATER_AVAILABLE"] =			"の更新が有ります"
 JAPANESE["UPDATER_UPDATE"] =			"アプリケーションの更新をしますか"
@@ -78,7 +78,7 @@ JAPANESE["SD2VITA_CONFIG_CHANGE"] =		"マウントポイントの変更"
 JAPANESE["SD2VITA_CONFIG_CANCEL"] =		"キャンセル"
 JAPANESE["SD2VITA_CONFIG_SAVE"] =		"現在の設定を保存"
 JAPANESE["SD2VITA_1_WARNING"] =			"Storage ManagerプラグインをインストールするにはSD2VITAが必要です"
-JAPANESE["SD2VITA_2_WARNING"] =			"ゲームカードが挿入されている場合、再起動する前にゲームカードを取り外して下さい"
+JAPANESE["SD2VITA_2_WARNING"] =			"ゲームカードが挿入されている場合、アプリを再起動する前にゲームカードを取り外して下さい"
 JAPANESE["SD2VITA_3_WARNING"] =			"最重要:SD2VITAには幾つかのアプリケーションがインストールされている必要があります"
 JAPANESE["SD2VITA_4_WARNING"] =			"純正メモリーカードから必要なアプリをSDカードにコピーして下さい"
 JAPANESE["SD2VITA_5_WARNING"] =			"例:H-Encore・Vitashell・ONEMenu・PKGJ・Adrenaline等"
@@ -132,14 +132,14 @@ JAPANESE["PKGJ_UPDATE_CONFIG"] =		"PKGJのコンフィグを更新"
 JAPANESE["PKGJ_UPDATING"] =			"PKGJのコンフィグを更新中\n\n暫くお待ち下さい"
 
 JAPANESE["PKGJ_TITLE_INSTALL_PBP"] =		"PSPゲームをEBOOTファイルとしてインストール"
-JAPANESE["PKGJ_DESC_INSTALL_PBP"] =		"より速くゲーム(EBOOT.PBP)をインストールする事が出来ます。Quikrazor作のNpdrm_freeプラグインをインストールする必要があります"
+JAPANESE["PKGJ_DESC_INSTALL_PBP"] =		"より速くゲーム(EBOOT.PBP)をインストールする事が出来ます。qwikrazor87作のNpdrm_freeプラグインをインストールする必要があります"
 JAPANESE["PKGJ_TITLE_CHANGE_LOC"] =		"PSP/PSXのパーティションの切り替え"
 JAPANESE["PKGJ_DESC_CHANGE_LOC"] =		"PSPとPSXゲームを別のパーティションにインストールする"
 JAPANESE["PKGJ_TITLE_ADD_PSM"] =		"PSMゲームの追加"
 JAPANESE["PKGJ_DESC_ADD_PSM"] =			"NoPsmDrmプラグインのインストールが必要です"
 
 --npdrm free
-JAPANESE["NPDRMFREE_TITLE"] =			"Qwik作npdrm freeプラグインのインストール"
+JAPANESE["NPDRMFREE_TITLE"] =			"qwikrazor87作npdrm freeプラグインのインストール"
 JAPANESE["NPDRMFREE_INSTALLED"] =		"npdrm free installed"
 JAPANESE["NPDRMFREE_VSH_UPDATED"] =		"vsh.txtを更新しました"
 JAPANESE["NPDRMFREE_GAME_UPDATED"] =		"game.txtを更新しました"

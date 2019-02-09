@@ -165,13 +165,13 @@ JAPANESE["PSPCTRLS_LR_SWAP"] =			"パーティションを切り替え"
 
 --psp plugins
 JAPANESE["PLUGINS_PSP_TITLE"] =			"AdrenalineのPSPプラグインの利用可能一覧"
-JAPANESE["PLUGINS_DESC"] =				"AdrenalineのPSPプラグインをインストール"
+JAPANESE["PLUGINS_DESC"] =			"AdrenalineのPSPプラグインをインストール"
 
-JAPANESE["CAMERA_PATCH_DESC"] =				"このプラグインはAdrenalineのPSPゲームにアナログスティックサポートを追加する事が出来ます"
-JAPANESE["CXMB_DESC"] =					"CXMBにより、PSP/テーマでカスタムCTFテーマを使用出来ます"
-JAPANESE["LANGSWAPPER_DESC"] =				"PSPのゲームに設定される言語に、ゲームのホームメニューとデータ保存のユーティリティを設定します"
-JAPANESE["CATEGORYLITE_DESC"] =				"全ての公式ゲーム・エミュレータ・自作アプリ・ゲームを、ゲームディレクトリの下の独自のフォルダに整理します"
-JAPANESE["KHBBS_UNDUB_DESC"] =				"キングダムハーツ : バース バイ スリープ/ファイナル ミックス(日本語音声)の為のUNDUBのバージョン"
+JAPANESE["CAMERA_PATCH_DESC"] =			"このプラグインはAdrenalineのPSPゲームにアナログスティックサポートを追加する事が出来ます"
+JAPANESE["CXMB_DESC"] =				"CXMBにより、PSP/テーマでカスタムCTFテーマを使用出来ます"
+JAPANESE["LANGSWAPPER_DESC"] =			"PSPのゲームに設定される言語に、ゲームのホームメニューとデータ保存のユーティリティを設定します"
+JAPANESE["CATEGORYLITE_DESC"] =			"全ての公式ゲーム・エミュレータ・自作アプリ・ゲームを、ゲームディレクトリの下の独自のフォルダに整理します"
+JAPANESE["KHBBS_UNDUB_DESC"] =			"キングダムハーツ : バース バイ スリープ/ファイナル ミックス(日本語音声)の為のUNDUBのバージョン"
 
 --plugins online
 JAPANESE["UPDATE_WIFI_LOW"] =			"Wi-Fiの信号が弱いです"

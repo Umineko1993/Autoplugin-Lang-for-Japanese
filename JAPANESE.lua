@@ -99,7 +99,7 @@ JAPANESE["SD2VITA_GCD_FRIENDLY"] =		"SD2VITA"
 JAPANESE["SD2VITA_UMA_FRIENDLY"] =		"PS VITA 1000のUSB又はPSVSD"
 
 --install plugins
-JAPANESE["INSTALLP_LIST_PLUGINS"] =		"インストール可能なプラグインリスト:"
+JAPANESE["INSTALLP_LIST_PLUGINS"] =		"インストール可能なプラグイン一覧:"
 JAPANESE["INSTALLP_MARK"] =			"プラグインの選択/選択解除"
 JAPANESE["INSTALLP_CONFIRM"] =			"プラグインのインストール"
 JAPANESE["INSTALLP_ALL"] =			"全てのプラグインのインストール"

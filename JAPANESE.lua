@@ -171,7 +171,7 @@ JAPANESE["CAMERA_PATCH_DESC"] =			"このプラグインはAdrenalineのPSPゲ�
 JAPANESE["CXMB_DESC"] =				"CXMBにより、PSP/テーマでカスタムCTFテーマを使用出来ます"
 JAPANESE["LANGSWAPPER_DESC"] =			"PSPのゲームに設定される言語に、ゲームのホームメニューとデータ保存のユーティリティを設定します"
 JAPANESE["CATEGORYLITE_DESC"] =			"全ての公式ゲーム・エミュレータ・自作アプリ・ゲームを、ゲームディレクトリの下の独自のフォルダに整理します"
-JAPANESE["KHBBS_UNDUB_DESC"] =			"キングダムハーツ : バース バイ スリープ/ファイナル ミックス(日本語音声)の為のUNDUBのバージョン"
+JAPANESE["KHBBS_UNDUB_DESC"] =			"キングダムハーツ:バース バイ スリープ/ファイナル ミックス(日本語音声)の為のUNDUBのバージョン"
 
 --plugins online
 JAPANESE["UPDATE_WIFI_LOW"] =			"Wi-Fiの信号が弱いです"

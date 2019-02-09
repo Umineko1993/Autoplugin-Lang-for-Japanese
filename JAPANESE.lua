@@ -1,6 +1,6 @@
 JAPANESE = {}
 
---Translates for 3.74
+--Translates for 3.76
 
 JAPANESE["UPDATER_AVAILABLE"] =			"の更新が有ります"
 JAPANESE["UPDATER_UPDATE"] =			"アプリケーションの更新をしますか"
@@ -49,6 +49,7 @@ JAPANESE["MENU_CHECK_ONLINEP"] =		"プラグインの更新の確認"
 JAPANESE["MENU_TITLE_PSP"] =			"PSP(Adrenaline)のプラグイン"
 JAPANESE["MENU_INSTALL_NPDRMFREE"] =		"qwikrazor87作npdrm freeプラグインのインストール"
 JAPANESE["MENU_INSTALL_REMASTERED_CTRLS"] =	"TheOfficialFloW作RemasteredControls pluginsプラグインのインストール"
+JAPANESE["MENU_INSTALL_PLUGINS_PSP"] =		"AdrenalineのPSPプラグイン"
 
 JAPANESE["MENU_CONVERTBOOTSPLASH"] =		"Custom Boot Splashの設定"
 JAPANESE["MENU_CUSTOMWARNING"] =		"Custom Warning Messageの設定"
@@ -60,13 +61,11 @@ JAPANESE["MENU_CUSTOM_CONFIG_DESC"] =		"PKGJのconfig.txtでのオプション�
 
 JAPANESE["MENU_QENCORE"] =			"Yoti作Q-Encoreのインストール"
 JAPANESE["MENU_QENCORE_DESC"] =			"by Yoti作Quick H-encore launcher(警告:H-Encoreがインストールされている必要があります)"
-
 JAPANESE["MENU_QENCORE_ASK"] =			"Q-Encoreをインストールする必要があります"
 JAPANESE["MENU_INSTALLED_QENCORE"] =		"Q-Encoreはインストールされています"
 JAPANESE["MENU_NOT_INSTALLED_QENCORE"] =	"Q-Encoreはインストールされていません"
 JAPANESE["MENU_QENCORE_PATCHED"] =		"Q-Encoreのパッチをしました"
 JAPANESE["MENU_QENCORE_NOT_PATCHED"] =		"Q-Encoreのパッチはされていません"
-
 JAPANESE["MENU_QENCORE_NOGAME"] =		"Q-Encoreパッチを当てるにはH-Encoreをインストールする必要があります"
 
 --install sd2vita
@@ -161,7 +160,18 @@ JAPANESE["CUSTOMBOOTSPLASH_NOPNG"] =		"拡張子: .png"
 JAPANESE["PSPCTRLS_TITLE"] =			"TheOfficialFloW作(Adrenaline向け)Remastered Controlsプラグインのインストール"
 JAPANESE["PSPCTRLS_GAME_UPDATED"] =		"game.txtを更新しました"
 JAPANESE["PSPCTRLS_DESC"] =			"Adrenaline上のPSPゲームをPS Vitaのデュアルアナログスティックで操作可能にする"
+JAPANESE["PSPCTRLS_DESC_ALL"] =			"デュアルアナログスティックの有効"
 JAPANESE["PSPCTRLS_LR_SWAP"] =			"パーティションを切り替え"
+
+--psp plugins
+JAPANESE["PLUGINS_PSP_TITLE"] =			"AdrenalineのPSPプラグインの利用可能一覧"
+JAPANESE["PLUGINS_DESC"] =							"AdrenalineのPSPプラグインをインストール"
+
+JAPANESE["CAMERA_PATCH_DESC"] =						"このプラグインはAdrenalineのPSPゲームにアナログスティックサポートを追加する事が出来ます"
+JAPANESE["CXMB_DESC"] =								"CXMBにより、PSP/テーマでカスタムCTFテーマを使用出来ます"
+JAPANESE["LANGSWAPPER_DESC"] =						"PSPのゲームに設定される言語に、ゲームのホームメニューとデータ保存のユーティリティを設定します"
+JAPANESE["CATEGORYLITE_DESC"] =						"全ての公式ゲーム・エミュレータ・自作アプリ・ゲームを、ゲームディレクトリの下の独自のフォルダに整理します"
+JAPANESE["KHBBS_UNDUB_DESC"] =						"キングダムハーツ: Birth By Sleep/Final Mix(日本語音声)の為のUNDUBのバージョン"
 
 --plugins online
 JAPANESE["UPDATE_WIFI_LOW"] =			"Wi-Fiの信号が弱いです"

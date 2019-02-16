@@ -1,6 +1,6 @@
 JAPANESE = {}
 
---Translates for 3.76
+--Translates for 3.78
 
 JAPANESE["UPDATER_AVAILABLE"] =			"の更新が有ります"
 JAPANESE["UPDATER_UPDATE"] =			"アプリケーションの更新をしますか"

@@ -210,6 +210,7 @@ JAPANESE["INSTALLP_DESC_CIDSPOOF"] =		"PS VitaのなりすましCID(PSNからコ
 JAPANESE["INSTALLP_DESC_MAKEPSM"] =		"PSM Developerアプリケーションへの変更"
 JAPANESE["INSTALLP_DESC_REFOOD"] =		"復号化されていないプログラムを実行する為のPS Vitaプラグイン"
 JAPANESE["INSTALLP_DESC_NOLED"] =		"noledはPS Vitaのホームボタンを無効にするため為のシンプルなプラグイン"
+JAPANESE["INSTALLP_DESC_NOSLEEP"] =		"スリープタイマーを無効にするtaiHEN・ensoのVita用のシンプルなプラグイン"
 
 --Boot_config.txt
 JAPANESE["INSTALLP_DESC_CUSTOMBOOTSPLASH"] =	"このプラグインは、起動時にPS Vita／PS TVにBoot Splashを表示させる事が出来ます(ENSO必須)"
@@ -242,3 +243,7 @@ JAPANESE["INSTALLP_DESC_ITLSENSO"] =		"Enso対応デバイスにTLS v1.2を追�
 JAPANESE["INSTALLP_DESC_TROPHAX"] =		"PS VITA用全てのトロフィーロックの解除"
 JAPANESE["INSTALLP_DESC_TURBOPAD"] =		"このプラグインを使うと、どのボタンでも連射(速射)を有効に事が出来ます"
 JAPANESE["INSTALLP_DESC_RESCALER"] =		"このプラグインはPS VITA用のオリジナルのスケーラを新規の物に置き換え、シェーダを使用したフィルタリングで、ネイティブではない解像度で実行されているゲームでもグラフィックの向上を実現出来ます"
+JAPANESE["INSTALLP_DESC_INFINITENET"] =		"ゲームがネット機能を無効にするのを防ぐtaiHEN向けのプラグイン"
+
+--*NPXS10013
+JAPANESE["INSTALLP_DESC_PS4LINK"] =		"好みのリモートプレイボタン設定を強制する事を可能にするtaiHEN向けのプラグイン"

@@ -60,14 +60,14 @@ JAPANESE["MENU_INSTALLED_CONFIG"] =		"ux0:pkgi/config.txtに導入されまし�
 JAPANESE["MENU_CUSTOM_CONFIG_DESC"] =		"PKGJのconfig.txtでのオプションのカスタマイズを許可します"
 
 
-JAPANESE["MENU_HENCORE2"] =		"TheOfficialFloW氏作H-Encore Version2を導入"
+JAPANESE["MENU_HENCORE2"] =			"TheOfficialFloW氏作H-Encore Version2を導入"
 JAPANESE["MENU_HENCORE2_DESC"] =		"TheOfficialFloW氏作H-Encore Version2へ更新(注意:H-Encoreが既に導入されている必要があります)"
 JAPANESE["MENU_HENCORE2_ASK"] =			"H-Encore Version2は以下の場所に導入されます 場所:"
-JAPANESE["MENU_INSTALLED_HENCORE2"] =			"H-Encore Version2は以下の場所に導入されました 場所:"
-JAPANESE["MENU_NOT_INSTALLED_HENCORE2"] =		"H-Encore Version2は以下の場所に導入出来ませんでした 場所:"
+JAPANESE["MENU_INSTALLED_HENCORE2"] =		"H-Encore Version2は以下の場所に導入されました 場所:"
+JAPANESE["MENU_NOT_INSTALLED_HENCORE2"] =	"H-Encore Version2は以下の場所に導入出来ませんでした 場所:"
 JAPANESE["MENU_HENCORE2_PATCHED"] =		"H-Encore Version2を適用しました"
 JAPANESE["MENU_HENCORE2_NOT_PATCHED"] =		"H-Encore Version2は適用出来ませんでした"
-JAPANESE["MENU_HENCORE2_NOGAME"] =					"H-Encore Version2を更新するには、H-Encoreを導入しておく必要があります"
+JAPANESE["MENU_HENCORE2_NOGAME"] =		"H-Encore Version2を更新するには、H-Encoreを導入しておく必要があります"
 
 JAPANESE["MENU_QENCORE"] =			"Yoti氏作Q-Encoreの導入"
 JAPANESE["MENU_QENCORE_DESC"] =			"Yoti氏作Quick H-encore launcher(警告:H-Encoreが導入されている必要があります)"

@@ -254,7 +254,7 @@ JAPANESE["INSTALLP_DESC_TROPHAX"] =		"PS VITA用全てのトロフィーロッ�
 JAPANESE["INSTALLP_DESC_TURBOPAD"] =		"このプラグインを使うと、どのボタンでも連射(速射)を有効に事が出来ます"
 JAPANESE["INSTALLP_DESC_RESCALER"] =		"このプラグインはPS VITA用のオリジナルのスケーラを新規の物に置き換え、シェーダを使用したフィルタリングで、ネイティブではない解像度で実行されているゲームでもグラフィックの向上を実現出来ます"
 JAPANESE["INSTALLP_DESC_INFINITENET"] =		"ゲームがネット機能を無効にするのを防ぐtaiHEN向けのプラグイン"
-JAPANESE["INSTALLP_DESC_FREEPSM"] =			      "PSMランタイムでPSM InAppPurchasesのデバッグ機能を有効にします"
+JAPANESE["INSTALLP_DESC_FREEPSM"] =		"PSMランタイムでPSM InAppPurchasesのデバッグ機能を有効にします"
 
 --*NPXS10013
 JAPANESE["INSTALLP_DESC_PS4LINK"] =		"好みのリモートプレイボタン設定を強制する事を可能にするtaiHEN向けのプラグイン"

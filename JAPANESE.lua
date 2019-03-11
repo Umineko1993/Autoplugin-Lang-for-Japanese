@@ -1,6 +1,6 @@
 JAPANESE = {}
 
---Translates for 3.81
+--Translates for 3.82
 
 JAPANESE["UPDATER_AVAILABLE"] =			"の更新が有ります"
 JAPANESE["UPDATER_UPDATE"] =			"アプリケーションの更新をしますか"
@@ -17,7 +17,7 @@ JAPANESE["TRANSLATION_SAVED_2"] =		"このファイルをAutopluginのGitHubに�
 JAPANESE["NOTHING_TO_TRANSLATE"] =		"ご関心をお寄せいただきありがとうございます。現在翻訳する箇所はありません"
 JAPANESE["STRING_UNSAFE_MODE"] =		"このアプリの起動にはUNSAFE MODEを有効にする必要があります"
 JAPANESE["STRING_PSVITA_RESTART"] =		"PS Vitaを再起動します"
-JAPANESE["STRING_BACKUP_CONFIGS"] =		"Config_backups.txtの作成"
+JAPANESE["STRING_BACKUP_CONFIGS"] =		"Config_backups.txtの作成中"
 JAPANESE["STRING_MISSING_CONFIG"] =		"config.txtが存在しません"
 JAPANESE["STRING_BACK"] =			"メニューに戻る"
 JAPANESE["STRING_CLOSE"] =			"Autopluginの終了"
@@ -213,8 +213,8 @@ JAPANESE["INSTALLP_DESC_DSMOTION"] = 		"PS TVのDualShockモーションコン�
 JAPANESE["INSTALLP_DESC_USBMC"] = 		"USBストレージをVitaのメモリーカード(ux0)としてマウントする事が出来ます"
 JAPANESE["INSTALLP_DESC_ANALOGSENHANCER"] =	"この小さなカーネルプラグインにより、ユーザーはPS Vitaのアナログスティックの操作精度を向上させる事が出来ます"
 JAPANESE["INSTALLP_DESC_IOPLUS"] = 		"ユーザランドでより多くのIO操作を可能にするPS Vitaカーネルプラグインです/n元の機能を使用して、ユーザーアプリケーションとプラグインのIO許可を向上させます"
-ENGLISH_US["INSTALLP_DESC_VITACHEAT"] =		"FW3.65・FW3.68向けPS Vitaのゲームでチートを使用する"
-ENGLISH_US["INSTALLP_DESC_VITACHEAT2"] =	"FW3.60向けPS Vitaのゲームでチートを使用する"
+JAPANESE["INSTALLP_DESC_VITACHEAT"] =		"FW3.65・FW3.68向けPS Vitaのゲームでチートを使用する"
+JAPANESE["INSTALLP_DESC_VITACHEAT2"] =	"FW3.60向けPS Vitaのゲームでチートを使用する"
 JAPANESE["INSTALLP_DESC_NOPSMWHITE"] =		"PSMゲームのPS TV向けホワイトリストを無効にする"
 JAPANESE["INSTALLP_DESC_ANALOGSTICK"] =		"PS Vitaのアナログスティックを完全に無効化するプラグイン"
 JAPANESE["INSTALLP_DESC_CIDSPOOF"] =		"PS VitaのなりすましCID(PSNからコンソールの禁止を解除する為に使用される可能性があります)"

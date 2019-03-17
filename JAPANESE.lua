@@ -177,7 +177,8 @@ JAPANESE["PSPCTRLS_LR_SWAP"] =			"パーティションを切り替え"
 JAPANESE["PLUGINS_PSP_TITLE"] =			"AdrenalineのPSPプラグインの利用可能一覧"
 JAPANESE["PLUGINS_DESC"] =			"AdrenalineのPSPプラグインを導入"
 
-JAPANESE["GTA_PATCH_DESC"] =			"このプラグインは、ゲームの内部解像度を960×544のネイティブ解像度に引き上げます。サポートされているタイトル:Vice City Stories[ULUS10160](v3.00)・Liberty City Stories [ULUS10041](v3.00)  Adrenaline v6.9以降 設定→強制的にハイメモリレイアウトを無効にする([リカバリ]メニュー→[詳細]→[詳細設定])"
+JAPANESE["GTA_PATCH_DESC"] =			"このプラグインは、ゲームの内部解像度を960×544のネイティブ解像度に引き上げます。サポートされているゲームタイトル:Vice City Stories[ULUS10160](バージョン
+3.00)・Liberty City Stories[ULUS10041](バージョン 3.00)  Adrenalineのバージョン6.9以降 設定→強制的にハイメモリレイアウトを無効にする([リカバリ]メニュー→[詳細]→[詳細設定])"
 JAPANESE["CAMERA_PATCH_DESC"] =			"このプラグインはAdrenalineのPSPゲームにアナログスティックサポートを追加する事が出来ます"
 JAPANESE["CXMB_DESC"] =				"CXMBにより、PSP/テーマでカスタムCTFテーマを使用出来ます"
 JAPANESE["LANGSWAPPER_DESC"] =			"PSPのゲームに設定される言語に、ゲームのホームメニューとデータ保存のユーティリティを設定します"

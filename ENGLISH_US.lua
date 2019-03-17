@@ -1,6 +1,6 @@
 ENGLISH_US = {}
 
---Translates for 3.82
+--Translates for 3.83
 
 ENGLISH_US["UPDATER_AVAILABLE"] =           			"is now available."
 ENGLISH_US["UPDATER_UPDATE"] =               			"Do you want to update the application?"
@@ -177,6 +177,7 @@ ENGLISH_US["PSPCTRLS_LR_SWAP"] =						"To swap partitions"
 ENGLISH_US["PLUGINS_PSP_TITLE"] =						"Available PSP plugins (Adrenaline)"
 ENGLISH_US["PLUGINS_DESC"] =							"Install PSP Plugins for Adrenaline"
 
+ENGLISH_US["GTA_PATCH_DESC"] =						    "This plugin increases the internal resolution of the game to native 960x544 resolution. Supported titles:Vice City Stories [ULUS10160] (v3.00) and Liberty City Stories [ULUS10041] (v3.00). Adrenaline v6.9 or higher -> Option Force high memory layout disabled (in Recovery menu -> Advanced -> Advanced configuration)."
 ENGLISH_US["CAMERA_PATCH_DESC"] =						"This plugin can add right analog stick support to PSP games on the Adrenaline"
 ENGLISH_US["CXMB_DESC"] =								"CXMB allows users to use custom CTF themes in PSP/THEMES"
 ENGLISH_US["LANGSWAPPER_DESC"] =						"It sets games home menu and the save data utility to the language your PSP is set to on games with different region language"
@@ -214,7 +215,7 @@ ENGLISH_US["INSTALLP_DESC_USBMC"] = 					"USB storage as Vita memory card"
 ENGLISH_US["INSTALLP_DESC_ANALOGSENHANCER"] =			"This little kernel plugin allows users to improve their experience with PSVITA analogs"
 ENGLISH_US["INSTALLP_DESC_IOPLUS"] = 					"A PSVita kernel plugin that allows more IO operations in userland"
 ENGLISH_US["INSTALLP_DESC_VITACHEAT"] =					"Use Cheats On PSVita Games only for 3.65/3.68"
-ENGLISH_US["INSTALLP_DESC_VITACHEAT2"] =					"Use Cheats On PSVita Games only for 3.60"
+ENGLISH_US["INSTALLP_DESC_VITACHEAT2"] =				"Use Cheats On PSVita Games only for 3.60"
 ENGLISH_US["INSTALLP_DESC_NOPSMWHITE"] =				"Disables PSTV Whitelist for PSM Games"
 ENGLISH_US["INSTALLP_DESC_ANALOGSTICK"] =				"Plugin to completely disable PSVita's analog stick"
 ENGLISH_US["INSTALLP_DESC_CIDSPOOF"] =					"Spoof CID (ConsoleID) on PSVITA(Could possibly be used to unban your console from PSN)"

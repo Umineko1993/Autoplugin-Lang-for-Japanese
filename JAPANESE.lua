@@ -1,6 +1,6 @@
 JAPANESE = {}
 
---Translates for 3.83
+--Translates for 3.84
 
 JAPANESE["UPDATER_AVAILABLE"] =			"の更新が有ります"
 JAPANESE["UPDATER_UPDATE"] =			"アプリケーションの更新をしますか"
@@ -208,6 +208,7 @@ JAPANESE["INSTALLP_DESC_DS3VITA"] =		"DualShock3を使用してPS Vitaを操作�
 JAPANESE["INSTALLP_DESC_DS4VITA"] =		"DualShock4を使用してPS Vitaを操作が出来ます"
 JAPANESE["INSTALLP_DESC_UDCDUVC"] =		"UVCデバイスを使用して、USB経由でディスプレイをコンピュータにストリーミングします"
 JAPANESE["INSTALLP_DESC_VIIMOTE"] =		"WiiMoteを使用してPS Vitaを操作が出来ます"
+JAPANESE["INSTALLP_DESC_VITASTICK"] =		"USBゲームコントローラとしてPS Vitaを使用する"
 JAPANESE["INSTALLP_DESC_KUIO"] =		"基本的なI/O操作の場合、ユーザーモジュールux0:dataにアクセス出来る様にします/n特定のプラグインが必要な場合があります"
 JAPANESE["INSTALLP_DESC_ADRENALINE"] =		"ワンタッチでAdrenalineを動作させる事が出来ます"
 JAPANESE["INSTALLP_DESC_DSMOTION"] = 		"PS TVのDualShockモーションコントロールのサポート"

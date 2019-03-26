@@ -1,6 +1,6 @@
 ENGLISH_US = {}
 
---Translates for 3.84
+--Translates for 3.85
 
 ENGLISH_US["UPDATER_AVAILABLE"] =           			"is now available."
 ENGLISH_US["UPDATER_UPDATE"] =               			"Do you want to update the application?"

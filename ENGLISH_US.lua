@@ -1,6 +1,6 @@
 ENGLISH_US = {}
 
---Translates for 3.85
+--Translates for 3.86
 
 ENGLISH_US["UPDATER_AVAILABLE"] =           			"is now available."
 ENGLISH_US["UPDATER_UPDATE"] =               			"Do you want to update the application?"
@@ -220,7 +220,6 @@ ENGLISH_US["INSTALLP_DESC_VITACHEAT2"] =				"Use Cheats On PSVita Games only for
 ENGLISH_US["INSTALLP_DESC_NOPSMWHITE"] =				"Disables PSTV Whitelist for PSM Games"
 ENGLISH_US["INSTALLP_DESC_ANALOGSTICK"] =				"Plugin to completely disable PSVita's analog stick"
 ENGLISH_US["INSTALLP_DESC_CIDSPOOF"] =					"Spoof CID (ConsoleID) on PSVITA(Could possibly be used to unban your console from PSN)"
-ENGLISH_US["INSTALLP_DESC_MAKEPSM"] =					"Modifications to the PSM Developer applications"
 ENGLISH_US["INSTALLP_DESC_REFOOD"] =					"A vita plugin to run programs that do not get decrypted properly."
 ENGLISH_US["INSTALLP_DESC_NOLED"] =					    "noled is a simple plugin to turn off the home button led of PS Vita."
 ENGLISH_US["INSTALLP_DESC_NOSLEEP"] =					"This is just a simple plugin for taihen / enso Vita that disables the sleep timer."
@@ -258,6 +257,10 @@ ENGLISH_US["INSTALLP_DESC_TURBOPAD"] =					"This plugin allows you to enable Rap
 ENGLISH_US["INSTALLP_DESC_RESCALER"] =					"This plugin replaces the original rescaler for PSVITA with a new one allowing games running at non-native resolution to get graphics improvements thanks to filtering with shaders."
 ENGLISH_US["INSTALLP_DESC_INFINITENET"] =			    "taiHEN plugin that prevents games from disabling net features"
 ENGLISH_US["INSTALLP_DESC_FREEPSM"] =			        "Enables Debug PSM InAppPurchases in retail PSM Runtime"
+ENGLISH_US["INSTALLP_DESC_MAKEPSM"] =					"Modifications to the PSM Developer applications"
+ENGLISH_US["INSTALLP_DESC_WDNR"] =					    "Rear touchpad disabler for PSVITA."
+ENGLISH_US["INSTALLP_DESC_WDNF"] =					    "Disable front touchscreen."
+ENGLISH_US["INSTALLP_DESC_REMAPSV"] =					"remaPSV is a remap plugin allowing you to remap every single button of your PSVita and to map touch and reartouch zones to extra buttons."
 
 --*NPXS10013
 ENGLISH_US["INSTALLP_DESC_PS4LINK"] =			        "taiHEN plugin that allows to force preferred Remote Play button configuration"

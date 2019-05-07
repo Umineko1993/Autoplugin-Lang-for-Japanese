@@ -114,7 +114,7 @@ JAPANESE["INSTALLP_MARK"] =			"プラグインの選択 / 選択解除"
 JAPANESE["INSTALLP_CONFIRM"] =			"プラグインの導入"
 JAPANESE["INSTALLP_ALL"] =			"全てのプラグインの導入"
 JAPANESE["INSTALLP_CLEAN"] =			"選択したプラグインの選択解除"
-JAPANESE["INSTALLP_LR_SWAP"] =			"ux0:/ ur0:の切り替え"
+JAPANESE["INSTALLP_LR_SWAP"] =			"ux0:/ ur0:/ の切り替え"
 JAPANESE["INSTALLP_CUSTOM_PATH"] =		"任意の場所に導入"
 
 JAPANESE["INSTALLP_VITABRIGHT_360"] =		"VitabrightはFW3.60とH-Encore FW3.68専用です"

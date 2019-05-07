@@ -259,7 +259,7 @@ JAPANESE["INSTALLP_DESC_INFINITENET"] =		"ゲームがネット機能を無効�
 JAPANESE["INSTALLP_DESC_FREEPSM"] =		"PSMランタイムでPSM InAppPurchasesのデバッグ機能を有効にします"
 JAPANESE["INSTALLP_DESC_MAKEPSM"] =		"PSM開発者アプリケーションへの変更"
 JAPANESE["INSTALLP_DESC_WDNR"] =		"PS Vitaの背面タッチパッドを無効"
-JAPANESE["INSTALLP_DESC_WDNF"] =			"前面タッチスクリーンを無効"
+JAPANESE["INSTALLP_DESC_WDNF"] =		"前面タッチスクリーンを無効"
 JAPANESE["INSTALLP_DESC_REMAPSV"] =		"remaPSVは、PS Vitaの全てのボタンを再配置や、前面タッチスクリーンと背面タッチパッドに追加ボタンを配置が出来る、再配置プラグイン"
 
 --*NPXS10013

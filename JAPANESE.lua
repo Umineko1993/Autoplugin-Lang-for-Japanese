@@ -153,7 +153,7 @@ JAPANESE["NPDRMFREE_INSTALLED"] =		"npdrm freeが導入されました"
 JAPANESE["NPDRMFREE_VSH_UPDATED"] =		"vsh.txtを更新しました"
 JAPANESE["NPDRMFREE_GAME_UPDATED"] =		"game.txtを更新しました"
 JAPANESE["NPDRMFREE_INSTALL"] =			"npdrm freeプラグインの導入"
-JAPANESE["NPDRMFREE_DESC"] =			"npdrm freeは正式な.rifライセンスやact.datを必要とせずに、公式のPS1/PSPコンテンツを実行する為のPSP/ePSPプラグイン"
+JAPANESE["NPDRMFREE_DESC"] =			"npdrm freeは正式な.rifライセンスやact.datを必要とせずに、公式のPS1 / PSPコンテンツを実行する為のPSP / ePSPプラグイン"
 
 --customWarning
 JAPANESE["CUSTOMWARNING_MESSAGE"] =		"Custom Warningプラグインを有効にする事を忘れないで下さい"

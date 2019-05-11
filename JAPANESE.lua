@@ -3,7 +3,7 @@ JAPANESE = {}
 --Translates for 3.87
 
 JAPANESE["UPDATER_AVAILABLE"] =			"が利用可能になりました"
-JAPANESE["UPDATER_UPDATE"] =			"アプリケーションの更新をしますか?"
+JAPANESE["UPDATER_UPDATE"] =			"アプリケーションの更新をしますか?\n更新後、日本語言語ファイルの再導入をして下さい"
 JAPANESE["CHINESE_FONT_DOWNLOAD"] =		"中国語フォントのダウンロード"
 JAPANESE["MENU_TRANSLATE"] =			"Autopluginを翻訳"
 JAPANESE["TRANSLATE_ENGLISH_TITLE"] =		"英語: "

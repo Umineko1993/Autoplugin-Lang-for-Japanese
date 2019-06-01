@@ -1,6 +1,6 @@
 JAPANESE = {}
 
---Translates for 3.89
+--Translates for 3. 90
 
 JAPANESE["UPDATER_AVAILABLE"] =			"が利用可能になりました"
 JAPANESE["UPDATER_UPDATE"] =			"アプリケーションの更新をしますか?\n\nアプリケーション更新後、哘製の日本語言語ファイルを使用する場合、\n言語ファイルの再導入が必要です"
@@ -198,6 +198,7 @@ JAPANESE["UPDATE_CHECK_VITACHEAT_DB"] =		"VitaCheatデータベースの確認"
 --descriptions plugins
 --KERNEL
 JAPANESE["INSTALLP_DESC_NONPDRM"] =		"全てのPS VitaコンテンツでDRM保護の回避が出来ます"
+JAPANESE["INSTALLP_DESC_NONPDRMU"] =		"全てのPS VitaコンテンツでDRM保護の回避が出来ます (非公式MOD)"
 JAPANESE["INSTALLP_DESC_MINIVITATV"] =		"PS Vitaで最大4人とローカルマルチプレイゲームをする事が出来ます"
 JAPANESE["INSTALLP_DESC_NOPSMDRM"] =		"全てのPSMのゲームコンテンツでDRM保護の回避が出来ます"
 JAPANESE["INSTALLP_DESC_VITABRIGHT"] =		"カスタムガンマテーブルを使用し、明るさの最小値より小さくし、最大値より大きくする事が出来ます"
@@ -206,7 +207,9 @@ JAPANESE["INSTALLP_DESC_REPATCH"] =		"ux0:patch の暗号化されたゲーム�
 JAPANESE["INSTALLP_DESC_LOLICON"] =		"PS VitaのCPUクロックをオーバークロック有効化と、画面上にフレームレートを表示させる事が出来ます"
 JAPANESE["INSTALLP_DESC_DS3VITA"] =		"DualShock3を使用してPS Vitaを操作する"
 JAPANESE["INSTALLP_DESC_DS4VITA"] =		"DualShock4を使用してPS Vitaを操作する"
-JAPANESE["INSTALLP_DESC_UDCDUVC"] =		"PS Vitaの画面をPCにストリーミングする"
+JAPANESE["INSTALLP_DESC_UDCDUVC"] =		"PS Vitaの画面をPCにストリーミングする (公式)"
+JAPANESE["INSTALLP_DESC_UDCDUVCO"] =		"PS Vita(PCH-100・PCH-1100)の画面をPCにストリーミングする (非公式MOD)"
+JAPANESE["INSTALLP_DESC_UDCDUVCL"] =		"PS Vita(PCH-2000)の画面をPCにストリーミングする (非公式MOD)"
 JAPANESE["INSTALLP_DESC_VIIMOTE"] =		"WiiMoteを使用してPS Vitaを操作する"
 JAPANESE["INSTALLP_DESC_VITASTICK"] =		"USBゲームコントローラとしてPS Vitaを使用する"
 JAPANESE["INSTALLP_DESC_KUIO"] =		"基本入出力操作の為にユーザー・モジュールがux0:dataにアクセス出来るようにします\n特定のプラグインに必要な場合があります"

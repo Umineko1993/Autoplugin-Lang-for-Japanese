@@ -1,6 +1,6 @@
 JAPANESE = {}
 
---Translates for 3. 90
+--Translates for 3. 91
 
 JAPANESE["UPDATER_AVAILABLE"] =			"が利用可能になりました"
 JAPANESE["UPDATER_UPDATE"] =			"アプリケーションの更新をしますか?\n\nアプリケーション更新後、哘製の日本語言語ファイルを使用する場合、\n言語ファイルの再導入が必要です"
@@ -207,9 +207,9 @@ JAPANESE["INSTALLP_DESC_REPATCH"] =		"ux0:patch の暗号化されたゲーム�
 JAPANESE["INSTALLP_DESC_LOLICON"] =		"PS VitaのCPUクロックをオーバークロック有効化と、画面上にフレームレートを表示させる事が出来ます"
 JAPANESE["INSTALLP_DESC_DS3VITA"] =		"DualShock3を使用してPS Vitaを操作する"
 JAPANESE["INSTALLP_DESC_DS4VITA"] =		"DualShock4を使用してPS Vitaを操作する"
-JAPANESE["INSTALLP_DESC_UDCDUVC"] =		"PS Vitaの画面をPCにストリーミングする (公式)"
-JAPANESE["INSTALLP_DESC_UDCDUVCO"] =		"PS Vita 1000 の画面をPCにストリーミングする (非公式MOD)"
-JAPANESE["INSTALLP_DESC_UDCDUVCL"] =		"PS Vita 2000 の画面をPCにストリーミングする (非公式MOD)"
+JAPANESE["INSTALLP_DESC_UDCDUVC"] =		"PS Vitaの画面をPCに転送する (公式)"
+JAPANESE["INSTALLP_DESC_UDCDUVCO"] =		"画面を消灯した状態で、PS Vita 1000 の画面をPCに転送する (非公式MOD)"
+JAPANESE["INSTALLP_DESC_UDCDUVCL"] =		"画面を消灯した状態で、PS Vita 2000 の画面をPCに転送する (非公式MOD)"
 JAPANESE["INSTALLP_DESC_VIIMOTE"] =		"WiiMoteを使用してPS Vitaを操作する"
 JAPANESE["INSTALLP_DESC_VITASTICK"] =		"USBゲームコントローラとしてPS Vitaを使用する"
 JAPANESE["INSTALLP_DESC_KUIO"] =		"基本入出力操作の為にユーザー・モジュールがux0:dataにアクセス出来るようにします\n特定のプラグインに必要な場合があります"
@@ -265,6 +265,7 @@ JAPANESE["INSTALLP_DESC_MAKEPSM"] =		"PSM開発者アプリケーションへの
 JAPANESE["INSTALLP_DESC_WDNR"] =		"PS Vitaの背面タッチパッドを無効"
 JAPANESE["INSTALLP_DESC_WDNF"] =		"前面タッチスクリーンを無効"
 JAPANESE["INSTALLP_DESC_REMAPSV"] =		"remaPSVは、PS Vitaの全てのボタンを再配置や、前面タッチスクリーンと背面タッチパッドに追加ボタンを配置が出来る、再配置プラグイン"
+JAPANESE["INSTALLP_DESC_FORCELANG"] =			"アプリケーションの言語を変更する為のtaiHEN向けのプラグイン"
 
 --*NPXS10013
 JAPANESE["INSTALLP_DESC_PS4LINK"] =		"好みのリモートプレイボタン設定を強制出来るtaiHEN向けのプラグイン"

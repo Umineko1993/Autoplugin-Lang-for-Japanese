@@ -265,7 +265,7 @@ JAPANESE["INSTALLP_DESC_MAKEPSM"] =		"PSM開発者アプリケーションへの
 JAPANESE["INSTALLP_DESC_WDNR"] =		"PS Vitaの背面タッチパッドを無効"
 JAPANESE["INSTALLP_DESC_WDNF"] =		"前面タッチスクリーンを無効"
 JAPANESE["INSTALLP_DESC_REMAPSV"] =		"remaPSVは、PS Vitaの全てのボタンを再配置や、前面タッチスクリーンと背面タッチパッドに追加ボタンを配置が出来る、再配置プラグイン"
-JAPANESE["INSTALLP_DESC_FORCELANG"] =			"アプリケーションの言語を変更する為のtaiHEN向けのプラグイン"
+JAPANESE["INSTALLP_DESC_FORCELANG"] =		"アプリケーションの言語を変更する為のtaiHEN向けのプラグイン"
 
 --*NPXS10013
 JAPANESE["INSTALLP_DESC_PS4LINK"] =		"好みのリモートプレイボタン設定を強制出来るtaiHEN向けのプラグイン"

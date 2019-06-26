@@ -1,6 +1,6 @@
 JAPANESE = {}
 
---Translates for 3. 91
+--Translates for 3. 92
 
 JAPANESE["UPDATER_AVAILABLE"] =			"が利用可能になりました"
 JAPANESE["UPDATER_UPDATE"] =			"アプリケーションの更新をしますか?\n\nアプリケーション更新後、哘製の日本語言語ファイルを使用する場合、\n言語ファイルの再導入が必要です"
@@ -246,6 +246,7 @@ JAPANESE["INSTALLP_DESC_PNGSHOT"] =		"pngshotはスクリーンショットを�
 JAPANESE["INSTALLP_DESC_VFLUX"] =		"PS Vitaのスクリーンフィルタープラグイン"
 JAPANESE["INSTALLP_DESC_RESKYPE"] =		"FW3.65以上でSkypeアプリを起動する為の簡単なプラグイン"
 JAPANESE["INSTALLP_DESC_AUTOBOOT"] =		"このプラグインは、PSPで以前行われていたAutoStartの様に、Ensoの起動直後にアプリケーションを自動起動するプラグイン"
+JAPANESE["INSTALLP_DESC_VITACOMPA"] =		"PS VitaでHomeBrewの開発を容易にするプラグイン"
 
 --ALL
 JAPANESE["INSTALLP_DESC_VSHMENU"] =		"PS VitaゲームとHomebrewsのVSHメニューを表示するtaiHENプラグイン"

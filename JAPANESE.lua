@@ -3,7 +3,7 @@ JAPANESE = {}
 --Translates for 3.94
 
 JAPANESE["UPDATER_AVAILABLE"] =			"が利用可能になりました"
-JAPANESE["UPDATER_UPDATE"] =			"アプリケーションの更新をしますか?\n\nアプリケーション更新後、哘製の日本語言語ファイルを使用する場合、\n言語ファイルの再導入が必要です"
+JAPANESE["UPDATER_UPDATE"] =			"アプリケーションの更新をしますか?\n\nAutopluginの更新後、哘製の日本語言語ファイルを使用する場合、\n言語ファイルの再導入が必要です"
 JAPANESE["CHINESE_FONT_DOWNLOAD"] =		"中国語フォントのダウンロード"
 JAPANESE["MENU_TRANSLATE"] =			"Autopluginを翻訳"
 JAPANESE["TRANSLATE_ENGLISH_TITLE"] =		"英語: "
@@ -54,7 +54,7 @@ JAPANESE["MENU_INSTALL_PLUGINS_PSP"] =		"AdrenalineのPSPプラグイン"
 JAPANESE["MENU_CONVERTBOOTSPLASH"] =		"Custom Boot Splashの設定"
 JAPANESE["MENU_CUSTOMWARNING"] =		"Custom Warning Messageの設定"
 JAPANESE["MENU_INSTALL_CONFIG"] =		"PKGJ v0.45以上向けの config.txt の導入"
-JAPANESE["MENU_INSTALL_CONFIG_DESC"] =		"PKGJ向けの config.txt の導入 (Wi-Fi必須)"
+JAPANESE["MENU_INSTALL_CONFIG_DESC"] =		"PKGJ向けの config.txt の導入 (Wi-Fiが必須)"
 JAPANESE["MENU_INSTALLED_CONFIG"] =		"ux0:pkgi/config.txt に導入されました"
 
 JAPANESE["MENU_CUSTOM_CONFIG_DESC"] =		"PKGJの config.txt でのオプションのカスタマイズを許可します"
@@ -90,7 +90,7 @@ JAPANESE["SD2VITA_1_WARNING"] =			"Storage Managerプラグインを導入する
 JAPANESE["SD2VITA_2_WARNING"] =			"ゲームカードが挿入されている場合、アプリを再起動する前にゲームカードを取り外して下さい"
 JAPANESE["SD2VITA_3_WARNING"] =			"非常に重要: SD2VITAには幾つかのアプリケーションが導入されている必要があります"
 JAPANESE["SD2VITA_4_WARNING"] =			"純正メモリーカードから必要なアプリをSDカードにコピーして下さい"
-JAPANESE["SD2VITA_5_WARNING"] =			"例: H-Encore・Vitashell・ONEMenu・PKGJ・Adrenaline等"
+JAPANESE["SD2VITA_5_WARNING"] =			"例: H-Encore ・ Vitashell ・ ONEMenu ・ PKGJ ・ Adrenaline 等"
 JAPANESE["SD2VITA_GAMECARD_DETECTED"] =		"ゲームカードを検出しました"
 JAPANESE["SD2VITA_GAMECARD_REMOVED"] =		"導入前に取り外して下さい"
 JAPANESE["SD2VITA_INSTALL"] =			"導入の続行"
@@ -177,12 +177,12 @@ JAPANESE["PSPCTRLS_LR_SWAP"] =			"パーティションを切り替え"
 JAPANESE["PLUGINS_PSP_TITLE"] =			"AdrenalineのPSPプラグインの利用可能一覧"
 JAPANESE["PLUGINS_DESC"] =			"AdrenalineのPSPプラグインを導入"
 
-JAPANESE["GTA_PATCH_DESC"] =			"このプラグインは、ゲームの内部解像度をネイティブ解像度の960×544に引き上げます。対応するゲームタイトル: Vice City Stories [ULUS10160] (バージョン 3.00) ・ Liberty City Stories [ULUS10041] (バージョン 3.00) Adrenalineのバージョン6.9以降 設定 → 強制的にハイメモリレイアウトを無効にする( [リカバリ] メニュー → [詳細] → [詳細設定] )"
+JAPANESE["GTA_PATCH_DESC"] =			"このプラグインは、ゲームの内部解像度をネイティブ解像度の 960 × 544 に引き上げます。対応するゲームタイトル: Vice City Stories [ULUS10160] (バージョン 3.00) ・ Liberty City Stories [ULUS10041] (バージョン 3.00) Adrenalineのバージョン6.9以降 設定 → 強制的にハイメモリレイアウトを無効にする( [リカバリ] メニュー → [詳細] → [詳細設定] )"
 JAPANESE["CAMERA_PATCH_DESC"] =			"このプラグインはAdrenalineのPSPゲームにアナログスティックサポートを追加します"
 JAPANESE["CXMB_DESC"] =				"CXMBにより、PSPのテーマでカスタムCTFテーマを使用出来ます"
 JAPANESE["LANGSWAPPER_DESC"] =			"ゲームのホームメニューとデータ保存ユーティリティを、異なる地域言語のゲームでPSPが設定した言語に設定します"
-JAPANESE["CATEGORYLITE_DESC"] =			"ゲームディレクトリの下にある独自のフォルダに、全てのゲーム・エミュレータ・アプリ・ゲームを整理します"
-JAPANESE["KHBBS_UNDUB_DESC"] =			"キングダムハーツ: バース バイ スリープ / ファイナル ミックス (日本語音声) の為のUNDUBのバージョン"
+JAPANESE["CATEGORYLITE_DESC"] =			"ゲームディレクトリの下にある独自のフォルダに、全てのゲーム ・ エミュレータ・アプリ ・ ゲームを整理します"
+JAPANESE["KHBBS_UNDUB_DESC"] =			"キングダムハーツ : バース バイ スリープ / ファイナル ミックス (日本語音声) の為のUNDUBのバージョン"
 
 --plugins online
 JAPANESE["UPDATE_WIFI_LOW"] =			"Wi-Fiの信号が弱いです"
@@ -215,7 +215,7 @@ JAPANESE["INSTALLP_DESC_VITASTICK"] =		"USBゲームコントローラとしてP
 JAPANESE["INSTALLP_DESC_KUIO"] =		"基本入出力操作の為にユーザー・モジュールが ux0:data にアクセス出来るようにします\n特定のプラグインに必要な場合があります"
 JAPANESE["INSTALLP_DESC_ADRENALINE"] =		"1回の操作でAdrenalineを作動させる事が出来ます"
 JAPANESE["INSTALLP_DESC_DSMOTION"] = 		"PS TVのDualShockモーションコントロールのサポート"
-JAPANESE["INSTALLP_DESC_USBMC"] = 		"USBストレージをVitaのメモリーカード (ux0:) としてマウントする事が出来ます"
+JAPANESE["INSTALLP_DESC_USBMC"] = 		"USBストレージをVitaのメモリーカード ( ux0: ) としてマウントする事が出来ます"
 JAPANESE["INSTALLP_DESC_ANALOGSENHANCER"] =	"この小さなカーネルプラグインにより、ユーザーはPS Vitaのアナログスティックの操作精度を向上させる事が出来ます"
 JAPANESE["INSTALLP_DESC_IOPLUS"] = 		"ユーザランドでより多くのIO操作を可能にするPS Vitaカーネルプラグインです。元の機能を使用して、ユーザーアプリケーションとプラグインのIO許可を向上させます"
 JAPANESE["INSTALLP_DESC_VITACHEAT"] =		"FW3.65・FW3.68向けPS Vitaのゲームでチートを使用する"
@@ -231,7 +231,7 @@ JAPANESE["INSTALLP_DESC_BATFIX"] =		"PS Vitaのバッテリー関連の問題を
 --Boot_config.txt
 JAPANESE["INSTALLP_DESC_CUSTOMBOOTSPLASH"] =	"このプラグインは、起動時にPS Vita / PS TVにBoot Splashを表示させる事が出来ます (Ensoが必要)"
 JAPANESE["INSTALLP_DESC_CONVERTBOOTSPLASH"] =	"スプラッシュ画像をカスタムBoot Splashとして設定しますか?"
-JAPANESE["INSTALLP_DESC_NOFINDSPLASH"] =	"選択した画像を ux0:CustomBootsplash/ に配置します\n(splash.png に名前を変更して、960×544にサイズ変更)"
+JAPANESE["INSTALLP_DESC_NOFINDSPLASH"] =	"選択した画像を ux0:CustomBootsplash/ に配置します\n(splash.png に名前を変更して、960 × 544にサイズ変更)"
 JAPANESE["INSTALLP_DESC_SPLASHGH"] =		"画像サイズは [ 960 × 544 ] です"
 JAPANESE["INSTALLP_DESC_BOOTSPLASHDONE"] =	"boot_splash.bin が完了しました"
 

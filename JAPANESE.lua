@@ -28,7 +28,7 @@ JAPANESE["RESTART_QUESTION"] =			"今直ぐ再起動しますか?"
 --Options Menus
 JAPANESE["MENU_TITLE"] =			"Autoplugin"
 JAPANESE["MENU_PSVITA"] =			"Vita用プラグイン"
-JAPANESE["MENU_PSP"] =				"PSP (Adrenaline)用プラグイン"
+JAPANESE["MENU_PSP"] =				"PSP (Adrenaline) 用プラグイン"
 JAPANESE["MENU_EXTRAS"] =			"特別メニュー"
 JAPANESE["MENU_EXIT"] =				"終了"
 

@@ -1,6 +1,6 @@
 JAPANESE = {}
 
---Translates for 3.94
+--Translates for 3.95
 
 JAPANESE["UPDATER_AVAILABLE"] =			"が利用可能になりました"
 JAPANESE["UPDATER_UPDATE"] =			"アプリケーションの更新をしますか?\n\nAutopluginの更新後、哘製の日本語言語ファイルを使用する場合、\n言語ファイルの再導入が必要です"
@@ -241,6 +241,7 @@ JAPANESE["INSTALLP_DESC_NOLOCKSCREEN"] =	"PS Vitaのロック画面を無効に�
 JAPANESE["INSTALLP_DESC_NOTROPHYMSG"] =		"セーブデータが別のアカウントにリンクされているアプリケーションを起動する時、トロフィーヒントメッセージを無効にする。アカウントを頻繁に切り替える場合に便利です"
 JAPANESE["INSTALLP_DESC_CUSTOMWARNING"] =	"Ensoで起動する時に公式警告メッセージの代わりにカスタムメッセージを設定出来ます"
 JAPANESE["INSTALLP_DESC_SHELLBAT"] =		"ステータスバーにバッテリー残量を表示します"
+JAPANESE["INSTALLP_DESC_SHELLBATM"] =		"ステータスバーにバッテリ残量とIPアドレスを表示します"
 JAPANESE["INSTALLP_DESC_SHELLSECBAT"] =		"ステータスバーにバッテリー残量と時刻 (時 ・ 分 ・ 秒) を表示します"
 JAPANESE["INSTALLP_DESC_PNGSHOT"] =		"pngshotはスクリーンショットを撮影する為のプラグインです (拡張子: .png)"
 JAPANESE["INSTALLP_DESC_VFLUX"] =		"PS Vitaのスクリーンフィルタープラグイン"

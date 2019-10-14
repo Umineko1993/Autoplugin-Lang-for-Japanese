@@ -218,6 +218,7 @@ JAPANESE["INSTALLP_DESC_NOSLEEP"] =		"スリープタイマーを無効にする
 JAPANESE["INSTALLP_DESC_BATFIX"] =		"PS Vitaのバッテリー関連の問題を解決する、Enso向けのカーネルプラグイン"
 JAPANESE["INSTALLP_DESC_VIDEODBG"] =		"ビデオアプリをデバッグモードに変更"
 JAPANESE["INSTALLP_DESC_NOPOWERL"] =		"ScePowerの制限を取り除くPS Vitaカーネルプラグイン"
+
 --Boot_config.txt
 JAPANESE["INSTALLP_DESC_CUSTOMBOOTSPLASH"] =	"このプラグインは、起動時にPS Vita / PS TVにBoot Splashを表示させる事が出来ます (Ensoが必要)"
 JAPANESE["INSTALLP_DESC_CONVERTBOOTSPLASH"] =	"スプラッシュ画像をカスタムBoot Splashとして設定しますか?"

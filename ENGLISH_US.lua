@@ -231,6 +231,7 @@ ENGLISH_US["INSTALLP_DESC_VIDEODBG"] =					"Puts video app into debug mode."
 ENGLISH_US["INSTALLP_DESC_NOPOWERL"] =					"A PSVita kernel plugin that removes some restrictions placed by ScePower."
 ENGLISH_US["INSTALLP_DESC_DERIN"] =					    "Vita clocks OSD display."
 ENGLISH_US["INSTALLP_DESC_LOLITA"] =					"Sets your Vita's clocks to maximum all the time and disables limitations like low brightness and no Wi-Fi on intensive games."
+ENGLISH_US["INSTALLP_DESC_LOLITA4"] =					"Sets your Vita's clocks to 444 mhz all the time and disables limitations like low brightness and no Wi-Fi on intensive games."
 
 --Boot_config.txt
 ENGLISH_US["INSTALLP_DESC_CUSTOMBOOTSPLASH"] =			"This plugin can display Boot Splash on PS Vita/PSTV at boot. Requires ENSO."
@@ -278,3 +279,4 @@ ENGLISH_US["INSTALLP_DESC_PS4LINK"] =			        "taiHEN plugin that allows to fo
 
 --*NPXS10015 AND --*NPXS10016
 ENGLISH_US["INSTALLP_DESC_MACSPOOF"] =			        "A plugin to spoof your MAC address in the System Information"
+

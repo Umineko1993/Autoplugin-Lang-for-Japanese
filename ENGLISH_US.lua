@@ -279,4 +279,3 @@ ENGLISH_US["INSTALLP_DESC_PS4LINK"] =			        "taiHEN plugin that allows to fo
 
 --*NPXS10015 AND --*NPXS10016
 ENGLISH_US["INSTALLP_DESC_MACSPOOF"] =			        "A plugin to spoof your MAC address in the System Information"
-

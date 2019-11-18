@@ -1,6 +1,6 @@
 JAPANESE = {}
 
---Japanese translation of Autoplugin version 4.05
+--Japanese translation of Autoplugin version 4.06
 
 JAPANESE["UPDATER_AVAILABLE"] =			"が利用可能になりました"
 JAPANESE["UPDATER_UPDATE"] =			"アプリケーションの更新をしますか?\n\nAutopluginの更新後、哘製の日本語言語ファイルを使用する場合、\n言語ファイルの再導入が必要です"
@@ -193,6 +193,7 @@ JAPANESE["INSTALLP_DESC_NOPSMDRM"] =		"全てのPSMのゲームコンテンツ�
 JAPANESE["INSTALLP_DESC_VITABRIGHT"] =		"カスタムガンマテーブルを使用し、明るさの最小値より小さくし、最大値より大きくする事が出来ます"
 JAPANESE["INSTALLP_DESC_NOAVLS"] =		"AVLS-ForcedはVitaのAVLS機能を無効にします"
 JAPANESE["INSTALLP_DESC_REPATCH"] =		"ux0:patch の暗号化されたゲームの改造を可能にし、パッチ適用を可能にして、FW要求を回避します"
+JAPANESE["INSTALLP_DESC_REPATCH271"] =		"rePATCHのいくつかの問題を解決する先行バージョン3.0"
 JAPANESE["INSTALLP_DESC_LOLICON"] =		"PS VitaのCPUクロックをオーバークロック有効化と、画面上にフレームレートを表示させる事が出来ます"
 JAPANESE["INSTALLP_DESC_DS3VITA"] =		"DualShock3を使用してPS Vitaを操作する"
 JAPANESE["INSTALLP_DESC_DS4VITA"] =		"DualShock4を使用してPS Vitaを操作する"

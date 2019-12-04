@@ -1,6 +1,6 @@
 JAPANESE = {}
 
---Japanese translation of Autoplugin version 4.08
+--Japanese translation of Autoplugin version 4.10
 
 JAPANESE["UPDATER_AVAILABLE"] =			"が利用可能になりました"
 JAPANESE["UPDATER_UPDATE"] =			"アプリケーションの更新をしますか?\n\nAutopluginの更新後、哘製の日本語言語ファイルを使用する場合、\n言語ファイルの再導入が必要です"
@@ -255,3 +255,6 @@ JAPANESE["INSTALLP_DESC_PS4LINK"] =		"好みのリモートプレイボタン設
 
 --*NPXS10015 AND --*NPXS10016
 JAPANESE["INSTALLP_DESC_MACSPOOF"] =		"システム情報のMACアドレスを偽装するプラグイン"
+
+--*NPXS10036
+JAPANESE["INSTALLP_DESC_RESCREENY"] =		"スクリーンショットは、ゲームにちなんだ名前のフォルダーに保存されます"

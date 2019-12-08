@@ -1,6 +1,6 @@
 JAPANESE = {}
 
---Japanese translation of Autoplugin version 4.10
+--Japanese translation of Autoplugin version 4.11
 
 JAPANESE["UPDATER_AVAILABLE"] =			"が利用可能になりました"
 JAPANESE["UPDATER_UPDATE"] =			"アプリケーションの更新をしますか?\n\nAutopluginの更新後、哘製の日本語言語ファイルを使用する場合、\n言語ファイルの再導入が必要です"
@@ -206,6 +206,7 @@ JAPANESE["INSTALLP_DESC_NOPOWERL"] =		"ScePowerの制限を取り除くPS Vita�
 JAPANESE["INSTALLP_DESC_DERIN"] =		"PS Vitaのクロック周波数情報をディスプレイ上に表示"
 JAPANESE["INSTALLP_DESC_LOLITA"] =		"PS Vitaのクロック周波数を最大に設定・輝度77%上限撤廃・Wi-Fi制限解除の設定"
 JAPANESE["INSTALLP_DESC_LOLITA4"] =		"PS Vitaのクロック周波数を444MHzに設定・輝度77%上限撤廃・Wi-Fi制限解除の設定"
+JAPANESE["INSTALLP_DESC_PSVSHELL"] =		"別種のオーバークロックプラグイン"
 
 --Boot_config.txt
 JAPANESE["INSTALLP_DESC_CUSTOMBOOTSPLASH"] =	"このプラグインは、起動時にPS Vita / PS TVにBoot Splashを表示させる事が出来ます (Ensoが必要)"
@@ -249,6 +250,7 @@ JAPANESE["INSTALLP_DESC_WDNF"] =		"前面タッチスクリーンを無効"
 JAPANESE["INSTALLP_DESC_REMAPSV"] =		"remaPSVは、PS Vitaの全てのボタンを再配置や、前面タッチスクリーンと背面タッチパッドに追加ボタンを配置が出来る、再配置プラグイン"
 JAPANESE["INSTALLP_DESC_FORCELANG"] =		"アプリケーションの言語を変更する為のtaiHEN向けのプラグイン"
 JAPANESE["INSTALLP_DESC_SHOWINFO"] =		"実行中のアプリケーションのタイトルID･stitle･アプリケーションバージョンを表示するプラグイン"
+JAPANESE["INSTALLP_DESC_SHOWINFOFU"] =		"実行中のアプリケーションのタイトルID･stitle･アプリケーションバージョンを表示するプラグイン (完全版) "
 
 --*NPXS10013
 JAPANESE["INSTALLP_DESC_PS4LINK"] =		"好みのリモートプレイボタン設定を強制出来るtaiHEN向けのプラグイン"

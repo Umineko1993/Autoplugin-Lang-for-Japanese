@@ -1,6 +1,6 @@
 JAPANESE = {}
 
---Japanese translation of Autoplugin version 4.11
+--Japanese translation of Autoplugin version 4.12
 
 JAPANESE["UPDATER_AVAILABLE"] =			"が利用可能になりました"
 JAPANESE["UPDATER_UPDATE"] =			"アプリケーションの更新をしますか?\n\nAutopluginの更新後、哘製の日本語言語ファイルを使用する場合、\n言語ファイルの再導入が必要です"
@@ -20,14 +20,14 @@ JAPANESE["STRING_PSVITA_RESTART"] =		"PS Vitaを再起動します"
 JAPANESE["STRING_BACKUP_CONFIGS"] =		"Config_backups.txt を作成中"
 JAPANESE["STRING_MISSING_CONFIG"] =		"config.txt がありません"
 JAPANESE["STRING_BACK"] =			"メニューに戻る"
-JAPANESE["STRING_CLOSE"] =			"Autopluginを終了する"
+JAPANESE["STRING_CLOSE"] =			"Autopluginを終了"
 JAPANESE["STRING_INSTALLED"] =			"が導入されました"
 JAPANESE["STRING_PLEASE_WAIT"] =		"お待ち下さい"
 JAPANESE["RESTART_QUESTION"] =			"今直ぐ再起動しますか?"
 
 --Options Menus
 JAPANESE["MENU_TITLE"] =			"Autoplugin"
-JAPANESE["MENU_PSVITA"] =			"Vita用プラグイン"
+JAPANESE["MENU_PSVITA"] =			"PS Vita用プラグイン"
 JAPANESE["MENU_PSP"] =				"PSP (Adrenaline) 用プラグイン"
 JAPANESE["MENU_EXTRAS"] =			"特別メニュー"
 JAPANESE["MENU_EXIT"] =				"終了"
@@ -37,7 +37,7 @@ JAPANESE["INSTALL_PLUGINS_DESC"] =		"SCENE-PSVITA製の最も有用なプラグ�
 JAPANESE["UNINSTALL_PLUGINS_DESC"] =		"プラグインを簡単に削除する"
 JAPANESE["INSTALL_SD2VITA_DESC"] =		"SD2VITAプラグインの導入 (CelesteBlue氏作StorageMgr)"
 JAPANESE["CONFIG_SD2VITA_DESC"] =		"SD2VITAプラグインの設定 (CelesteBlue氏作StorageMgr)"
-JAPANESE["CHECK_ONLINEP_DESC"] =		"新しく更新されたプラグインの有無を確認します"
+JAPANESE["CHECK_ONLINEP_DESC"] =		"新しく更新されたプラグインの有無を確認"
 JAPANESE["MENU_TITLE_PSVITA"] =			"PS Vitaのプラグイン"
 JAPANESE["MENU_INSTALL_SD2VITA"] =		"SD2VITAプラグインの導入"
 JAPANESE["MENU_CONFIGURE_SD2VITA"] =		"SD2VITAプラグインの設定"
@@ -82,7 +82,7 @@ JAPANESE["MOUNT_UMA0_FRIENDLY"] =		"USBポート"
 JAPANESE["MOUNT_GRW0_FRIENDLY"] =		"ゲームカードスロット"
 JAPANESE["SD2VITA_MCD_FRIENDLY"] =		"純正メモリーカード"
 JAPANESE["SD2VITA_INT_FRIENDLY"] =		"PS Vita 2000 / PS TVの内部メモリー"
-JAPANESE["SD2VITA_GCD_FRIENDLY"] =		"SD2Vita"
+JAPANESE["SD2VITA_GCD_FRIENDLY"] =		"SD2VITA"
 JAPANESE["SD2VITA_UMA_FRIENDLY"] =		"PS Vita 1000のUSB又はPSV SD"
 
 --install plugins
@@ -175,7 +175,7 @@ JAPANESE["INSTALLP_DESC_NONPDRMU"] =		"全てのPS VitaコンテンツでDRM保�
 JAPANESE["INSTALLP_DESC_MINIVITATV"] =		"PS Vitaで最大4人とローカルマルチプレイゲームをする事が出来ます"
 JAPANESE["INSTALLP_DESC_NOPSMDRM"] =		"全てのPSMのゲームコンテンツでDRM保護の回避が出来ます"
 JAPANESE["INSTALLP_DESC_VITABRIGHT"] =		"カスタムガンマテーブルを使用し、明るさの最小値より小さくし、最大値より大きくする事が出来ます"
-JAPANESE["INSTALLP_DESC_NOAVLS"] =		"AVLS-ForcedはVitaのAVLS機能を無効にします"
+JAPANESE["INSTALLP_DESC_NOAVLS"] =		"AVLS-ForcedはPS VitaのAVLS機能を無効化"
 JAPANESE["INSTALLP_DESC_REPATCH"] =		"ux0:patch の暗号化されたゲームの改造を可能にし、パッチ適用を可能にして、FW要求を回避します"
 JAPANESE["INSTALLP_DESC_REPATCH271"] =		"rePATCHバージョン3.0のいくつかの問題を解決するプラグイン"
 JAPANESE["INSTALLP_DESC_LOLICON"] =		"PS VitaのCPUクロックをオーバークロック有効化と、画面上にフレームレートを表示させる事が出来ます"
@@ -189,12 +189,11 @@ JAPANESE["INSTALLP_DESC_VITASTICK"] =		"USBゲームコントローラとしてP
 JAPANESE["INSTALLP_DESC_KUIO"] =		"基本入出力操作の為にユーザー・モジュールが ux0:data にアクセス出来るようにします\n特定のプラグインに必要な場合があります"
 JAPANESE["INSTALLP_DESC_ADRENALINE"] =		"1回の操作でAdrenalineを作動させる事が出来ます"
 JAPANESE["INSTALLP_DESC_DSMOTION"] = 		"PS TVのDualShockモーションコントロールのサポート"
-JAPANESE["INSTALLP_DESC_USBMC"] = 		"USBストレージをVitaのメモリーカード ( ux0: ) としてマウントする事が出来ます"
+JAPANESE["INSTALLP_DESC_USBMC"] = 		"USBストレージをPS Vitaのメモリーカード ( ux0: ) としてマウントする事が出来ます"
 JAPANESE["INSTALLP_DESC_ANALOGSENHANCER"] =	"この小さなカーネルプラグインにより、ユーザーはPS Vitaのアナログスティックの操作精度を向上させる事が出来ます"
 JAPANESE["INSTALLP_DESC_IOPLUS"] = 		"ユーザランドでより多くのIO操作を可能にするPS Vitaカーネルプラグインです。元の機能を使用して、ユーザーアプリケーションとプラグインのIO許可を向上させます"
 JAPANESE["INSTALLP_DESC_VITACHEAT"] =		"FW3.65・FW3.68向けPS Vitaのゲームでチートを使用する"
 JAPANESE["INSTALLP_DESC_VITACHEAT2"] =		"FW3.60向けPS Vitaのゲームでチートを使用する"
-JAPANESE["INSTALLP_DESC_NOPSMWHITE"] =		"PSMゲームのPS TV向けホワイトリストを無効にする"
 JAPANESE["INSTALLP_DESC_ANALOGSTICK"] =		"PS Vitaのアナログスティックを無効化するプラグイン"
 JAPANESE["INSTALLP_DESC_CIDSPOOF"] =		"PS VitaのなりすましCID (PSNからコンソールの禁止を解除する為に使用される可能性があります)"
 JAPANESE["INSTALLP_DESC_REFOOD"] =		"復号化されていないプログラムを実行する為のPS Vitaプラグイン"
@@ -207,6 +206,7 @@ JAPANESE["INSTALLP_DESC_DERIN"] =		"PS Vitaのクロック周波数情報をデ�
 JAPANESE["INSTALLP_DESC_LOLITA"] =		"PS Vitaのクロック周波数を最大に設定・輝度77%上限撤廃・Wi-Fi制限解除の設定"
 JAPANESE["INSTALLP_DESC_LOLITA4"] =		"PS Vitaのクロック周波数を444MHzに設定・輝度77%上限撤廃・Wi-Fi制限解除の設定"
 JAPANESE["INSTALLP_DESC_PSVSHELL"] =		"別種のオーバークロックプラグイン"
+JAPANESE["INSTALLP_DESC_SYSCALL6"] =		"PS Vitaのlv0のsecure_kernelをパッチするsyscall6ツール (SELF/RVKチェック)"
 
 --Boot_config.txt
 JAPANESE["INSTALLP_DESC_CUSTOMBOOTSPLASH"] =	"このプラグインは、起動時にPS Vita / PS TVにBoot Splashを表示させる事が出来ます (Ensoが必要)"
@@ -229,6 +229,7 @@ JAPANESE["INSTALLP_DESC_RESKYPE"] =		"FW3.65以上でSkypeアプリを起動す�
 JAPANESE["INSTALLP_DESC_AUTOBOOT"] =		"このプラグインは、PSPで以前行われていたAutoStartの様に、Ensoの起動直後にアプリケーションを自動起動するプラグイン"
 JAPANESE["INSTALLP_DESC_VITACOMPA"] =		"PS VitaでHomeBrewの開発を容易にするプラグイン"
 JAPANESE["INSTALLP_DESC_VOLUPROF"] =		"スピーカーとヘッドフォンの音量を自動的に切り替える"
+JAPANESE["INSTALLP_DESC_DOLCEPOLCE"] =		"PS TVブラックリストチェックを削除 (PS Vita / PSP / PS1 / PSM)"
 
 --ALL
 JAPANESE["INSTALLP_DESC_VSHMENU"] =		"PS VitaゲームとHomebrewsのVSHメニューを表示するtaiHENプラグイン"
@@ -243,14 +244,14 @@ JAPANESE["INSTALLP_DESC_TROPHAX"] =		"PS VITA用全てのトロフィーロッ�
 JAPANESE["INSTALLP_DESC_TURBOPAD"] =		"このプラグインで、どのボタンでRapidFireを有効にします"
 JAPANESE["INSTALLP_DESC_RESCALER"] =		"このプラグインは、PS Vita用の独自のリスケーラを新規の物に置き換え、非ネイティブ解像度で動作するゲームがシェーダによるフィルタリングを使用し画質を改善出来るようにします"
 JAPANESE["INSTALLP_DESC_INFINITENET"] =		"ゲームがネット機能を無効にするのを防ぐtaiHEN向けのプラグイン"
-JAPANESE["INSTALLP_DESC_FREEPSM"] =		"PSMランタイムでPSM InAppPurchasesのデバッグ機能を有効にします"
+JAPANESE["INSTALLP_DESC_FREEPSM"] =		"PSMランタイムでPSM InAppPurchasesのデバッグ機能を有効化"
 JAPANESE["INSTALLP_DESC_MAKEPSM"] =		"PSM開発者アプリケーションへの変更"
 JAPANESE["INSTALLP_DESC_WDNR"] =		"PS Vitaの背面タッチパッドを無効"
 JAPANESE["INSTALLP_DESC_WDNF"] =		"前面タッチスクリーンを無効"
 JAPANESE["INSTALLP_DESC_REMAPSV"] =		"remaPSVは、PS Vitaの全てのボタンを再配置や、前面タッチスクリーンと背面タッチパッドに追加ボタンを配置が出来る、再配置プラグイン"
 JAPANESE["INSTALLP_DESC_FORCELANG"] =		"アプリケーションの言語を変更する為のtaiHEN向けのプラグイン"
 JAPANESE["INSTALLP_DESC_SHOWINFO"] =		"実行中のアプリケーションのタイトルID･stitle･アプリケーションバージョンを表示するプラグイン"
-JAPANESE["INSTALLP_DESC_SHOWINFOFU"] =		"実行中のアプリケーションのタイトルID･stitle･アプリケーションバージョンを表示するプラグイン (完全版) "
+JAPANESE["INSTALLP_DESC_SHOWINFOFU"] =		"実行中のアプリケーションのタイトルID･stitle･アプリケーションバージョンを表示するプラグイン (完全版)"
 
 --*NPXS10013
 JAPANESE["INSTALLP_DESC_PS4LINK"] =		"好みのリモートプレイボタン設定を強制出来るtaiHEN向けのプラグイン"

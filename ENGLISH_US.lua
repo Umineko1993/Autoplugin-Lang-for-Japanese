@@ -216,6 +216,7 @@ ENGLISH_US["INSTALLP_DESC_LOLITA"] =					"Sets your Vita's clocks to maximum all
 ENGLISH_US["INSTALLP_DESC_LOLITA4"] =					"Sets your Vita's clocks to 444 mhz all the time and disables limitations like low brightness and no Wi-Fi on intensive games."
 ENGLISH_US["INSTALLP_DESC_PSVSHELL"] =					"Yet another overclocking plugin"
 ENGLISH_US["INSTALLP_DESC_SYSCALL6"] =					"A tool that patches Playstation Vita's lv0's secure_kernel's syscall 6 (SELF/RVK checks)"
+ENGLISH_US["INSTALLP_DESC_MONAURAL"] =					"Mono audio and channel balance for Playstation Vita(requires vpk of the application)."
 
 --Boot_config.txt
 ENGLISH_US["INSTALLP_DESC_CUSTOMBOOTSPLASH"] =			"This plugin can display Boot Splash on PS Vita/PSTV at boot. Requires ENSO."
@@ -248,7 +249,6 @@ ENGLISH_US["INSTALLP_DESC_FRAMECOUNTER"] =				"This is a little plugin that work
 ENGLISH_US["INSTALLP_DESC_VGI"] =						"A simple taihen plugin that prints useful information about PS Vita games."
 ENGLISH_US["INSTALLP_DESC_FUCKPSSE"] =					"A plugin to decrypt PSM games"
 ENGLISH_US["INSTALLP_DESC_PSMPATCH"] =					"Allows you to modify PSM Games, and also can be used to load PSM Homebrew."
-ENGLISH_US["INSTALLP_DESC_ITLSENSO"] =					"Adds TLS v1.2 to Enso enabled devices for 3.60/3.65(requires vpk of the application)."
 ENGLISH_US["INSTALLP_DESC_TROPHAX"] =					"Universal trophy unlocker for PSVITA."
 ENGLISH_US["INSTALLP_DESC_TURBOPAD"] =					"This plugin allows you to enable RapidFire on whatever button."
 ENGLISH_US["INSTALLP_DESC_RESCALER"] =					"This plugin replaces the original rescaler for PSVITA with a new one allowing games running at non-native resolution to get graphics improvements thanks to filtering with shaders."

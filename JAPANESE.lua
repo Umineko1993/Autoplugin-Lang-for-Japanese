@@ -1,6 +1,6 @@
 JAPANESE = {}
 
---Japanese translation of Autoplugin version 4.12
+--Japanese translation of Autoplugin version 4.14
 
 JAPANESE["UPDATER_AVAILABLE"] =			"が利用可能になりました"
 JAPANESE["UPDATER_UPDATE"] =			"アプリケーションの更新をしますか?\n\nAutopluginの更新後、哘製の日本語言語ファイルを使用する場合、\n言語ファイルの再導入が必要です"
@@ -207,6 +207,7 @@ JAPANESE["INSTALLP_DESC_LOLITA"] =		"クロック周波数を最大に設定・�
 JAPANESE["INSTALLP_DESC_LOLITA4"] =		"クロック周波数を444MHzに設定・輝度77%上限撤廃・Wi-Fi制限解除の設定"
 JAPANESE["INSTALLP_DESC_PSVSHELL"] =		"オーバークロックプラグイン"
 JAPANESE["INSTALLP_DESC_SYSCALL6"] =		"lv0のsecure_kernelをパッチするsyscall6ツール (SELF/RVKチェック)"
+JAPANESE["INSTALLP_DESC_MONAURAL"] =		"モノラルオーディオ･チャンネルバランス調整 (アプリが必要)"
 
 --Boot_config.txt
 JAPANESE["INSTALLP_DESC_CUSTOMBOOTSPLASH"] =	"起動時にBoot Splashを表示 (Ensoが必要)"
@@ -239,7 +240,6 @@ JAPANESE["INSTALLP_DESC_FRAMECOUNTER"] =	"FPSカウンタプラグイン。画�
 JAPANESE["INSTALLP_DESC_VGI"] =			"ゲームに関する有益な情報を表示するtaiHEN向けのプラグイン"
 JAPANESE["INSTALLP_DESC_FUCKPSSE"] =		"PSMゲームを複号化するプラグイン"
 JAPANESE["INSTALLP_DESC_PSMPATCH"] =		"PSMゲームを修正する事を可能にし、PSMの自作Homebrewの読み込みに使用"
-JAPANESE["INSTALLP_DESC_ITLSENSO"] =		"Enso対応デバイスにTLS v1.2を追加 (アプリケーションが必要)"
 JAPANESE["INSTALLP_DESC_TROPHAX"] =		"PS Vita用全てのトロフィーロックの解除"
 JAPANESE["INSTALLP_DESC_TURBOPAD"] =		"RapidFireを有効化"
 JAPANESE["INSTALLP_DESC_RESCALER"] =		"独自のリスケーラを新規の物に置き換え、非ネイティブ解像度で動作するゲームがシェーダによるフィルタリングを使用し画質を改善"

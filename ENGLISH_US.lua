@@ -275,4 +275,3 @@ ENGLISH_US["INSTALLP_DESC_MACSPOOF"] =			        "A plugin to spoof your MAC add
 
 --*NPXS10036
 ENGLISH_US["INSTALLP_DESC_RESCREENY"] =			        "Vita screenshots will be saved into a folder named after the game."
-

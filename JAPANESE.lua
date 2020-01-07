@@ -1,6 +1,6 @@
 JAPANESE = {}
 
---Japanese translation of Autoplugin version 4.17
+--Japanese translation of Autoplugin version 4.18
 
 JAPANESE["UPDATER_AVAILABLE"] =			"が利用可能になりました"
 JAPANESE["UPDATER_UPDATE"] =			"アプリの更新をしますか?\n\nAutopluginの更新後、哘製の日本語言語ファイルを使用する場合、\n言語ファイルの再導入が必要です"
@@ -213,6 +213,7 @@ JAPANESE["INSTALLP_DESC_LOLITA4"] =		"クロック周波数を444MHzに設定・
 JAPANESE["INSTALLP_DESC_PSVSHELL"] =		"オーバークロックプラグイン"
 JAPANESE["INSTALLP_DESC_SYSCALL6"] =		"lv0のsecure_kernelをパッチするsyscall6ツール (SELF/RVKチェック)"
 JAPANESE["INSTALLP_DESC_MONAURAL"] =		"モノラルオーディオ･チャンネルバランス調整 (アプリが必要)"
+JAPANESE["INSTALLP_DESC_MUPREMIUM"] =		"ゲーム･アプリでBGM再生を有効"
 
 --Boot_config.txt
 JAPANESE["INSTALLP_DESC_CUSTOMBOOTSPLASH"] =	"起動時にBoot Splashを表示 (Ensoが必要)"

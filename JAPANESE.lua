@@ -1,6 +1,6 @@
 JAPANESE = {}
 
---Japanese translation of Autoplugin version 4.18
+--Japanese translation of Autoplugin version 4.19
 
 JAPANESE["UPDATER_AVAILABLE"] =			"が利用可能になりました"
 JAPANESE["UPDATER_UPDATE"] =			"アプリの更新をしますか?\n\nAutopluginの更新後、哘製の日本語言語ファイルを使用する場合、\n言語ファイルの再導入が必要です"
@@ -259,6 +259,7 @@ JAPANESE["INSTALLP_DESC_REMAPSV"] =		"全てのボタンを再配置や、前面
 JAPANESE["INSTALLP_DESC_FORCELANG"] =		"アプリの言語を変更するtaiHEN向けのプラグイン"
 JAPANESE["INSTALLP_DESC_SHOWINFO"] =		"実行中のアプリのタイトルID･stitle･アプリバージョンを表示"
 JAPANESE["INSTALLP_DESC_SHOWINFOFU"] =		"実行中のアプリのタイトルID･stitle･アプリバージョンを表示 (完全版)"
+JAPANESE["INSTALLP_DESC_MODALVOL"] =		"ゲームを中にPS Vitaのシステム音量を制御"
 
 --*NPXS10013
 JAPANESE["INSTALLP_DESC_PS4LINK"] =		"好みのリモートプレイボタン設定を強制出来るtaiHEN向けのプラグイン"

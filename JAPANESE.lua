@@ -1,6 +1,6 @@
 JAPANESE = {}
 
---Japanese translation of Autoplugin version 4.19
+--Japanese translation of Autoplugin version 4.20
 
 JAPANESE["UPDATER_AVAILABLE"] =			"が利用可能になりました"
 JAPANESE["UPDATER_UPDATE"] =			"アプリの更新をしますか?\n\nAutopluginの更新後、哘製の日本語言語ファイルを使用する場合、\n言語ファイルの再導入が必要です"
@@ -238,6 +238,9 @@ JAPANESE["INSTALLP_DESC_VITACOMPA"] =		"HomeBrewの開発を容易にするプ�
 JAPANESE["INSTALLP_DESC_VOLUPROF"] =		"スピーカーとヘッドフォンの音量を自動的に切り替える"
 JAPANESE["INSTALLP_DESC_DOLCEPOLCE"] =		"PS TVブラックリストチェックを削除 (PS Vita / PSP / PS1 / PSM)"
 JAPANESE["INSTALLP_DESC_LOWMEMMODE"] =		"アプリ起動時のメモリ容量チェックを無効"
+JAPANESE["INSTALLP_DESC_QUICKPOWER"] =		"クイックメニューから電源オフ･再起動･サスペンドを実行。PS VitaとPS TVので、電源ボタンを押して再起動。"
+JAPANESE["INSTALLP_DESC_QUICKVOLUME"] =		"PS TVと同様に、PS Vitaのクイックメニューから音量を変更"
+JAPANESE["INSTALLP_DESC_QASCREEN"] =		"高品質スクリーンショットプラグイン。ネイティブQAスクリーンショットSceShell実装を解除"
 
 --ALL
 JAPANESE["INSTALLP_DESC_VSHMENU"] =		"ゲームとHomebrewsのVSHメニューを表示するtaiHEN向けプラグイン"
